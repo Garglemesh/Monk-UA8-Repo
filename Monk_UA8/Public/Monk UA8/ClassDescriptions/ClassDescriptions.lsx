@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="1" minor="0" revision="0" build="0"/>
+    <region id="ClassDescriptions">
+        <node id="root">
+            <children>
+                <node id="ClassDescription">
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
+                    <attribute id="Description" type="TranslatedString" handle="hdbcaf9dcg7c37g4f36g98a8g9441a188caf0" version="2"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h70c1c516gfbddg4ffag8e87g40440c2d5bcd" version="1"/>
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="Name" type="FixedString" value="WarriorElements"/>
+                    <attribute id="ParentGuid" type="guid" value="c4598bdb-fc07-40dd-a62c-90cc138bd76f"/>
+                    <attribute id="PrimaryAbility" type="uint8" value="5"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="35523d45-0e40-4224-8a14-2546e7f2243d"/>
+                    <attribute id="SoundClassType" type="FixedString" value="Monk"/>
+                    <attribute id="SpellCastingAbility" type="uint8" value="5"/>
+                    <attribute id="UUID" type="guid" value="74eabf29-e797-44d7-a07c-9498c91b35a2"/>
+                </node>
+                <node id="ClassDescription">
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
+                    <attribute id="Description" type="TranslatedString" handle="h54e67ff6g9f6cg42f4g97d1ge9bc305498d2" version="2"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="ha224ffddgbc6cg46d7g9f2eg691bc3bce7e0" version="1"/>
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="Name" type="FixedString" value="WarriorHand"/>
+                    <attribute id="ParentGuid" type="guid" value="c4598bdb-fc07-40dd-a62c-90cc138bd76f"/>
+                    <attribute id="PrimaryAbility" type="uint8" value="2"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="41118f97-053c-4216-a825-a9a5fa585881"/>
+                    <attribute id="SoundClassType" type="FixedString" value="Monk"/>
+                    <attribute id="SpellCastingAbility" type="uint8" value="5"/>
+                    <attribute id="UUID" type="guid" value="77fe81c0-ba77-4906-afa2-6d58c342f8a5"/>
+                </node>
+                <node id="ClassDescription">
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
+                    <attribute id="Description" type="TranslatedString" handle="hfe62a256gad73g4ca1ga375g1ba27179261b" version="3"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h2e97d236gf18eg4783g8344gfe7fa39013d1" version="1"/>
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="Name" type="FixedString" value="WarriorShadow"/>
+                    <attribute id="ParentGuid" type="guid" value="c4598bdb-fc07-40dd-a62c-90cc138bd76f"/>
+                    <attribute id="PrimaryAbility" type="uint8" value="2"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="13cf5fed-8156-441d-8709-b808ed84e5db"/>
+                    <attribute id="SoundClassType" type="FixedString" value="ShadowMonk"/>
+                    <attribute id="SpellCastingAbility" type="uint8" value="5"/>
+                    <attribute id="UUID" type="guid" value="cafc7d70-133e-456e-b6dd-329165b7ab6f"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
+

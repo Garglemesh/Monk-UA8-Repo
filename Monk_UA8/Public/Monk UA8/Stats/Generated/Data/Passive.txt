@@ -1,0 +1,7 @@
+new entry "MartialArts_BonusUnarmedStrike"
+type "PassiveData"
+data "DisplayName" "hfcdc92c3g5dbdg4b16gbf4cg245385dc6bf3;3"
+data "Description" "h1a953609ga861g4e08ga260gd3341f5a963e;5"
+data "DescriptionParams" "DealDamage(LevelMapValue(MartialArts), Bludgeoning)"
+data "Icon" "PassiveFeature_MartialArts_BonusUnarmedStrike"
+data "Boosts" "UnlockSpell(Target_UnarmedStrike_Monk)"
