@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="0" build="328"/>
+    <region id="IconUVList"> 
+        <node id="root">
+            <children>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Action_Dodge"/>
+                    <attribute id="U1" type="float" value="0.000244141"/>
+                    <attribute id="U2" type="float" value="0.031005859"/>
+                    <attribute id="V1" type="float" value="0.000244141"/>
+                    <attribute id="V2" type="float" value="0.031005859"/>
+                </node>
+            </children>
+        </node>
+    </region>
+    <region id="TextureAtlasInfo">
+		<node id="root">
+			<children>
+                <node id="TextureAtlasIconSize">
+                    <attribute id="Height" type="int32" value="64"/>
+                    <attribute id="Width" type="int32" value="64"/>
+                </node>
+                <node id="TextureAtlasPath">
+                    <attribute id="Path" type="string" value="Assets/Textures/Icons/Icons_Skills.dds"/>
+                    <attribute id="UUID" type="FixedString" value="de8e8ad4-4477-11ee-be56-0242ac120002"/>
+                </node>
+                <node id="TextureAtlasTextureSize">
+                    <attribute id="Height" type="int32" value="2048"/>
+                    <attribute id="Width" type="int32" value="2048"/>
+                </node>
+            </children>
+        </node>
+    </region>			  				
+</save>

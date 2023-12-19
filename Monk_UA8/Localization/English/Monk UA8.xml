@@ -6,9 +6,28 @@
 	<content contentuid="ha224ffddgbc6cg46d7g9f2eg691bc3bce7e0" version="1">Warrior of the Hand</content>
 	<content contentuid="hfe62a256gad73g4ca1ga375g1ba27179261b" version="1">You practice stealth and subterfuge, channeling your reservoir of power to harness the power of the Shadowfell.</content>
 	<content contentuid="h2e97d236gf18eg4783g8344gfe7fa39013d1" version="1">Warrior of Shadow</content>
-
 	<content contentuid="h3b6649b0g2e88g4e52g96ffg59d05368e638" version="1">Dodge</content> 
-	<content contentuid="hea80c695g130eg4ef1gb5dfg6cb37683fd8b" version="1">You focus entirely on avoiding attacks. Until the start of your next turn, any attack roll made against you has disadvantage and you make Dexterity saving throws with advantage</content>
-	<content contentuid="Unique Handle created by the Multi-tool" version="1">Remember - you will have twice as many lines as items in your mod. You can delete any lines you are not using.</content>
+	<content contentuid="hea80c695g130eg4ef1gb5dfg6cb37683fd8b" version="1">You focus entirely on avoiding attacks. &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against you have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;, and you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Dexterity &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;</content>
+	<content contentuid="h71ad0334g6051g4b97g9b4dg4d338bc5465c" version="1">Flurry of Blows: First Strike</content>
+	<content contentuid="h06435e3agfca1g43efg88aag21dcd9eb7544" version="1">Flurry of Blows: Second Strike</content>
+	<content contentuid="h9de1e1f1g4e5dg4ca6g8e8cge1bb0744abb9" version="1">Flurry of Blows: Decoupled</content>
+	<content contentuid="h5ac1aa51g62c0g489aga58cga256104622da" version="1">Step of the Wind</content>
+	<content contentuid="hbf10d1adg99c6g4778g865ag6d8b4beb53eb" version="1">You move with the speed of the wind. You can take the &lt;LSTag Type="Spell" Tooltip="Shout_Dash_StepOfTheWind"&gt;Dash&lt;/LSTag&gt; or &lt;LSTag Type="Spell" Tooltip="Shout_Dash_Disengage_StepOfTheWind"&gt;Dash and Disengage&lt;/LSTag&gt; &lt;LSTag Tooltip="Action"&gt;actions&lt;/LSTag&gt; as a &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;bonus action&lt;/LSTag&gt;.</content>
+	<content contentuid="h670f9e0fg3c53g434dgbac1gfef8d2efc5a0" version="1">Step of the Wind: Dash and Disengage</content>
+	<content contentuid="h1afc2624g9dd6g4c9agb298g4faf00b8c166" version="1">Double your &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; and &lt;LSTag Type="Spell" Tooltip="Shout_Disengage"&gt;disengage&lt;/LSTag&gt;. Jump no longer requires a &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;bonus action&lt;/LSTag&gt;.</content>
+    <content contentuid="h6d8467f2ga0edg437dg9124g939a9ce0c0fa" version="1">Dodge</content>
+    <content contentuid="h10468818gf8a9g42fcg8460ga2b114cb9bce" version="1">&lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against you have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;, and you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Dexterity &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+	<content contentuid="h079e2498gdd3fg4b73gb2e5g8c9f1dbe26f4" version="1">Patient Defense</content>
+	<content contentuid="hcb593eb4gdc83g4b3aga420g32aedf008e33" version="1">You focus entirely on avoiding attacks. You can take the &lt;LSTag Type="Spell" Tooltip="Shout_Disengage_PatientDefense"&gt;Disengage&lt;/LSTag&gt; or &lt;LSTag Type="Spell" Tooltip="Shout_Disengage_Dodge_PatientDefense"&gt;Disengage and Dodge&lt;/LSTag&gt; &lt;LSTag Tooltip="Action"&gt;actions&lt;/LSTag&gt; as a &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;bonus action&lt;/LSTag&gt;.</content>
+	<content contentuid="h13e66b0agdf39g4462g9ab3gcc7407b7ccca" version="1">Patient Defense: Disengage</content>
+	<content contentuid="hf43abb0egbab2g4753g941dg02a6ac70418c" version="1">&lt;LSTag Type="Spell" Tooltip="Shout_Disengage"&gt;Disengage&lt;/LSTag&gt;</content>
+	<content contentuid="h6c556409ge345g4da9g9474gafc8424b7adb" version="1">Patient Defense: Disengage and Dodge</content>
+	<content contentuid="h06570701gdf56g49a5gb580g9216d293bba7" version="1">&lt;LSTag Type="Spell" Tooltip="Shout_Disengage"&gt;Disengage&lt;/LSTag&gt;, &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against you have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;, and you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Dexterity &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;</content>
+
+
+
+
+
+
 </contentList>
 

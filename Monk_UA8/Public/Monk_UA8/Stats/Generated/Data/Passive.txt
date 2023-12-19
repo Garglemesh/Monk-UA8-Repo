@@ -5,3 +5,8 @@ data "Description" "h1a953609ga861g4e08ga260gd3341f5a963e;5"
 data "DescriptionParams" "DealDamage(LevelMapValue(MartialArts), Bludgeoning)"
 data "Icon" "PassiveFeature_MartialArts_BonusUnarmedStrike"
 data "Boosts" "UnlockSpell(Target_UnarmedStrike_Monk)"
+
+new entry "FlurryOfBlowsUnlock"
+type "PassiveData"
+using "FlurryOfBlowsUnlock"
+data "Boosts" "UnlockSpell(Target_FlurryOfBlows);UnlockSpell(Shout_FlurryOfBlows);"

@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="328" />
+    <region id="SpellLists">
+        <node id="root">
+            <children>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Monk Level 2"/>
+                    <attribute id="Spells" type="LSString" value="Shout_PatientDefense_Container;Shout_StepOfTheWind_Container;"/>
+                    <attribute id="UUID" type="guid" value="2715246d-3375-4766-9a3e-5961efd56748"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Monk Level 5"/>
+                    <attribute id="Spells" type="LSString" value="Target_StunningStrike;Target_StunningStrike_Unarmed"/>
+                    <attribute id="UUID" type="guid" value="3ba6090a-a8be-4938-82ef-40eba0083441"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Monk Level 7"/>
+                    <attribute id="Spells" type="LSString" value="Shout_StillnessOfMind"/>
+                    <attribute id="UUID" type="guid" value="90d61529-d390-4d39-a84a-58dfc94c90aa"/>
+                </node>        
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Open Hand Monk Level 3" />
+                    <attribute id="Spells" type="LSString" value="Target_ArrestingStrike_Container;Target_CripplingStrikes_Container;Target_MysticHealing;Shout_PatientDefense;Shout_SlowFall;Shout_StepOfTheWind_Container;Shout_WhirlingStrike;Shout_SpiritualArmour;Throw_ImprovisedWeapon_Technique;" />
+                    <attribute id="UUID" type="guid" value="60bffb3d-2bab-46c4-b344-12ccdf3773b1" />
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Open Hand Monk Level 3 Default" />
+                    <attribute id="Spells" type="LSString" value="Target_EmpoweredStrike_Container;" />
+                    <attribute id="UUID" type="guid" value="281a6e97-fc57-445d-bef3-bb7d479a6383" />
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Open Hand Monk Level 5" />
+                    <attribute id="Spells" type="LSString" value="Target_ArrestingStrike_Container;Target_CripplingStrikes_Container;Target_MysticHealing;Shout_PatientDefense;Shout_SlowFall;Shout_StepOfTheWind_Container;Shout_WhirlingStrike;Shout_SpiritualArmour;Throw_ImprovisedWeapon_Technique;Shout_DeflectMissiles;Target_GentlingTouch_Container;Shout_SeekingStrike;Target_SlowingStrike_Container;Target_CrushingStrike_Container;Shout_DivineLight_Container;Shout_FightingStyle_Container;" />
+                    <attribute id="UUID" type="guid" value="2d551d4f-cbf7-4e62-ad94-52572d8dc1f1" />
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Open Hand Monk Level 5 Default" />
+                    <attribute id="Spells" type="LSString" value="Target_StunningStrike_Container;" />
+                    <attribute id="UUID" type="guid" value="a953a891-2418-41a5-9be4-900a3942c6d5" />
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Open Hand Monk Level 9 Default" />
+                    <attribute id="Spells" type="LSString" value="Shout_IndomitableSpirit;" />
+                    <attribute id="UUID" type="guid" value="d9f9fcb6-8557-4163-8f88-bcc9fc39ffa7" />
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Open Hand Monk Level 9" />
+                    <attribute id="Spells" type="LSString" value="Target_ArrestingStrike_Container;Target_CripplingStrikes_Container;Target_MysticHealing;Shout_PatientDefense;Shout_SlowFall;Shout_StepOfTheWind_Container;Shout_WhirlingStrike;Shout_SpiritualArmour;Throw_ImprovisedWeapon_Technique;Shout_DeflectMissiles;Target_GentlingTouch_Container;Shout_SeekingStrike;Target_SlowingStrike_Container;Target_CrushingStrike_Container;Shout_DivineLight_Container;Shout_FightingStyle_Container;Shout_AuraSight;Shout_HeavenlyStep;Shout_MantleOfCourtesy;Shout_FriendOfLeafAndBeast;Shout_CommuneWithSelf;Shout_MonasticFortitude;" />
+                    <attribute id="UUID" type="guid" value="d3f02763-797a-4495-8564-4a6a707baa8d" />
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Open Hand Monk Level 10 Default" />
+                    <attribute id="Spells" type="LSString" value="Target_ResonatingBlast_Container;" />
+                    <attribute id="UUID" type="guid" value="9cf05595-db65-4aaa-95ce-0d05c826e208" />
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Open Hand Monk Level 11" />
+                    <attribute id="Spells" type="LSString" value="Target_ArrestingStrike_Container;Target_CripplingStrikes_Container;Target_MysticHealing;Shout_PatientDefense;Shout_SlowFall;Shout_StepOfTheWind_Container;Shout_WhirlingStrike;Shout_SpiritualArmour;Throw_ImprovisedWeapon_Technique;Shout_DeflectMissiles;Target_GentlingTouch_Container;Shout_SeekingStrike;Target_SlowingStrike_Container;Target_CrushingStrike_Container;Shout_DivineLight_Container;Shout_FightingStyle_Container;Shout_AuraSight;Shout_HeavenlyStep;Shout_MantleOfCourtesy;Shout_FriendOfLeafAndBeast;Shout_CommuneWithSelf;Shout_MonasticFortitude;Shout_Tranquility;Shout_TongueOfSunAndMoon;Shout_MysticalIntegrity;Shout_BanishingStrike;Target_ConjurePreviousLife;" />
+                    <attribute id="UUID" type="guid" value="ed6ffef1-805d-4506-9283-103586ddfb02" />
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Shadow Monk Level 3" />
+                    <attribute id="Spells" type="LSString" value="Target_ArrestingStrike_Container;Target_CripplingStrikes_Container;Target_EmpoweredStrike_Container;Target_MysticHealing;Shout_PatientDefense;Shout_StepOfTheWind_Container;Shout_WhirlingStrike;Shout_SpiritualArmour;Throw_ImprovisedWeapon_Technique;" />
+                    <attribute id="UUID" type="guid" value="6b982960-4d6c-4805-8f47-15a9cb7ad1ca" />
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Shadow Monk Level 3 Default" />
+                    <attribute id="Spells" type="LSString" value="Target_ShadowArts_Container;Shout_Hide_ShadowArts;Target_MinorIllusion;Shout_SlowFall;" />
+                    <attribute id="UUID" type="guid" value="8fa1086f-90d2-4b8f-95e4-4e046a1e4f4a" />
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Shadow Monk Level 5" />
+                    <attribute id="Spells" type="LSString" value="Target_ArrestingStrike_Container;Target_CripplingStrikes_Container;Target_EmpoweredStrike_Container;Target_MysticHealing;Shout_PatientDefense;Shout_StepOfTheWind_Container;Shout_WhirlingStrike;Shout_SpiritualArmour;Throw_ImprovisedWeapon_Technique;Shout_DeflectMissiles;Shout_SeekingStrike;Target_SlowingStrike_Container;Target_StunningStrike_Container;Target_CrushingStrike_Container;Shout_DivineLight_Container;Shout_FightingStyle_Container;" />
+                    <attribute id="UUID" type="guid" value="3fb51776-6f9a-4794-8fb6-7b066b1f185a" />
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Shadow Monk Level 5 Default" />
+                    <attribute id="Spells" type="LSString" value="Target_GentlingTouch_Container;" />
+                    <attribute id="UUID" type="guid" value="799b3f5e-34c7-42f1-8312-7f2938346024" />
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Shadow Monk Level 9 Default" />
+                    <attribute id="Spells" type="LSString" value="Shout_HeavenlyStep;" />
+                    <attribute id="UUID" type="guid" value="cf380352-6c55-4928-a824-ce292ecb6403" />
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Shadow Monk Level 9" />
+                    <attribute id="Spells" type="LSString" value="Target_ArrestingStrike_Container;Target_CripplingStrikes_Container;Target_EmpoweredStrike_Container;Target_MysticHealing;Shout_PatientDefense;Shout_StepOfTheWind_Container;Shout_WhirlingStrike;Shout_SpiritualArmour;Throw_ImprovisedWeapon_Technique;Shout_DeflectMissiles;Shout_SeekingStrike;Target_SlowingStrike_Container;Target_StunningStrike_Container;Target_CrushingStrike_Container;Shout_DivineLight_Container;Shout_FightingStyle_Container;Shout_AuraSight;Shout_IndomitableSpirit;Shout_MantleOfCourtesy;Shout_FriendOfLeafAndBeast;Shout_CommuneWithSelf;Shout_MonasticFortitude;" />
+                    <attribute id="UUID" type="guid" value="b673e74c-758b-4a21-b509-25e171ae3e26" />
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Shadow Monk Level 10 Default" />
+                    <attribute id="Spells" type="LSString" value="Target_ShadowStrike_Container;" />
+                    <attribute id="UUID" type="guid" value="bf0dbc8f-d1b7-4863-9b48-9dfc2f9ffdbb" />
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Shadow Monk Level 11" />
+                    <attribute id="Spells" type="LSString" value="Target_ArrestingStrike_Container;Target_CripplingStrikes_Container;Target_EmpoweredStrike_Container;Target_MysticHealing;Shout_PatientDefense;Shout_StepOfTheWind_Container;Shout_WhirlingStrike;Shout_SpiritualArmour;Throw_ImprovisedWeapon_Technique;Shout_DeflectMissiles;Shout_SeekingStrike;Target_SlowingStrike_Container;Target_StunningStrike_Container;Target_CrushingStrike_Container;Shout_DivineLight_Container;Shout_FightingStyle_Container;Shout_AuraSight;Shout_IndomitableSpirit;Shout_MantleOfCourtesy;Shout_FriendOfLeafAndBeast;Shout_CommuneWithSelf;Shout_MonasticFortitude;Shout_Tranquility;Shout_TongueOfSunAndMoon;Shout_MysticalIntegrity;Shout_BanishingStrike;Target_ConjurePreviousLife;" />
+                    <attribute id="UUID" type="guid" value="371e3c50-470e-4190-9239-fbd9333488f8" />
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
