@@ -23,11 +23,14 @@
 	<content contentuid="hf43abb0egbab2g4753g941dg02a6ac70418c" version="1">&lt;LSTag Type="Spell" Tooltip="Shout_Disengage"&gt;Disengage&lt;/LSTag&gt;</content>
 	<content contentuid="h6c556409ge345g4da9g9474gafc8424b7adb" version="1">Patient Defense: Disengage and Dodge</content>
 	<content contentuid="h06570701gdf56g49a5gb580g9216d293bba7" version="1">&lt;LSTag Type="Spell" Tooltip="Shout_Disengage"&gt;Disengage&lt;/LSTag&gt;, &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against you have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;, and you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Dexterity &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;</content>
-
-
-
-
-
+	<content contentuid="h97ae83afg48a4g45ccg9edag0eb552007fc0" version="1">Uncanny Metabolism</content>
+	<content contentuid="h9281e830g4434g409dg9cddg41e93c4e4516" version="1">Once per long rest, at the start of combat you can regain all expended &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;Ki Points&lt;/LSTag&gt; and heal for [1]</content>
+	<content contentuid="h199c545dgf0f6g41f0ga7d4ga418e899775e" version="1">Deflect Attacks</content>
+	<content contentuid="h0639bb1agdbeeg4a69g89d3g1fd2527bca15" version="1">Use your reaction to reduce the damage from a weapon attack by 1d10 + your Dexterity &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt; + your monk level.&lt;br&gt;&lt;br&gt;If the damage is reduced to 0, you can use a Ki Point to &lt;LSTag Type="Spell" Tooltip="Projectile_Deflect_Attacks"&gt;Deflect the Attack&lt;/LSTag&gt;.</content>
+	<content contentuid="h4a832e7dgb895g4ed8g8945g371b1fb13ff5" version="1">Use your reflexes to deflect a weapon attack back at your attacker.</content>
+	<content contentuid="h2d7406degc858g47c2gbb3bg020a9f3ac0bd" version="1">You can use your reaction to deflect weapon attacks. When you do so, the damage is reduced by [1] + your Monk class level.</content>
+	<content contentuid="h87d55d37gaa0cg41f5g92f0g750eff4d8fb7" version="1">Use your reaction to reduce the damage from a weapon attack by 1d10 + your Dexterity &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt; + your monk level.</content>
+	<content contentuid="h59d50637g5343g4072gb725g00edef2bb7f7" version="1">Toggle Deflect Attacks</content>
 
 </contentList>
 

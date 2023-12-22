@@ -9,7 +9,7 @@
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="Icon_Skills" />
 					<attribute id="SRGB" type="bool" value="True" />
-					<attribute id="SourceFile" type="LSString" value="Public/dodgeaction/Assets/Textures/Icons/Icons_Skills.dds" />
+					<attribute id="SourceFile" type="LSString" value="Public/Monk_UA8/Assets/Textures/Icons/Icons_Skills.dds" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="Icon_Skills" />
 					<attribute id="Type" type="int32" value="0" />

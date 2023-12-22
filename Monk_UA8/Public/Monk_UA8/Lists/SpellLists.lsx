@@ -6,7 +6,7 @@
             <children>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Monk Level 2"/>
-                    <attribute id="Spells" type="LSString" value="Shout_PatientDefense_Container;Shout_StepOfTheWind_Container;"/>
+                    <attribute id="Spells" type="LSString" value="Shout_Dash_StepOfTheWind;Shout_Dash_Disengage_StepOfTheWind;Shout_Disengage_PatientDefense;Shout_Disengage_Dodge_PatientDefense;"/>
                     <attribute id="UUID" type="guid" value="2715246d-3375-4766-9a3e-5961efd56748"/>
                 </node>
                 <node id="SpellList">
@@ -31,7 +31,7 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Open Hand Monk Level 5" />
-                    <attribute id="Spells" type="LSString" value="Target_ArrestingStrike_Container;Target_CripplingStrikes_Container;Target_MysticHealing;Shout_PatientDefense;Shout_SlowFall;Shout_StepOfTheWind_Container;Shout_WhirlingStrike;Shout_SpiritualArmour;Throw_ImprovisedWeapon_Technique;Shout_DeflectMissiles;Target_GentlingTouch_Container;Shout_SeekingStrike;Target_SlowingStrike_Container;Target_CrushingStrike_Container;Shout_DivineLight_Container;Shout_FightingStyle_Container;" />
+                    <attribute id="Spells" type="LSString" value="Target_ArrestingStrike_Container;Target_CripplingStrikes_Container;Target_MysticHealing;Shout_PatientDefense;Shout_SlowFall;Shout_StepOfTheWind_Container;Shout_WhirlingStrike;Shout_SpiritualArmour;Throw_ImprovisedWeapon_Technique;Target_GentlingTouch_Container;Shout_SeekingStrike;Target_SlowingStrike_Container;Target_CrushingStrike_Container;Shout_DivineLight_Container;Shout_FightingStyle_Container;" />
                     <attribute id="UUID" type="guid" value="2d551d4f-cbf7-4e62-ad94-52572d8dc1f1" />
                 </node>
                 <node id="SpellList">
