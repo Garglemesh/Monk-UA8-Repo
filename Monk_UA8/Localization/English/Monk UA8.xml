@@ -32,13 +32,13 @@
 	<content contentuid="h87d55d37gaa0cg41f5g92f0g750eff4d8fb7" version="1">Use your reaction to reduce the damage from a weapon attack by 1d10 + your Dexterity &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt; + your monk level.</content>
 	<content contentuid="h59d50637g5343g4072gb725g00edef2bb7f7" version="1">Toggle Deflect Attacks</content>
 	<content contentuid="h6b874c62g62aeg4520g968bga532af2f0cd1" version="1">Elemental Strikes (Acid)</content>
-	<content contentuid="h57f86684g8002g43cfgaa4cgbb8db32a5de0" version="1">Your hands become extensions of elemental earth. Your unarmed attacks instead deal [1].</content>
+	<content contentuid="h57f86684g8002g43cfgaa4cgbb8db32a5de0" version="1">Your hands become extensions of elemental earth. Your unarmed attacks instead deal acid damage.</content>
 	<content contentuid="ha8a2a6bcg7619g47c7g9363g2faca8611c32" version="1">Elemental Strikes (Cold)</content>
-	<content contentuid="hb499a4b3g4d85g45b0gb65dg3d768bbadae7" version="1">Your hands become extensions of elemental water. Your unarmed attacks instead deal [1].</content>
+	<content contentuid="hb499a4b3g4d85g45b0gb65dg3d768bbadae7" version="1">Your hands become extensions of elemental water. Your unarmed attacks instead deal cold damage.</content>
 	<content contentuid="h85c85c92g5319g415fgb91dgedcf58a1ed12" version="1">Elemental Strikes (Fire)</content>
-	<content contentuid="h5f81e20aga647g4c0fgb804gc90fc24aad5d" version="1">Your hands become extensions of elemental fire. Your unarmed attacks instead deal [1].</content>
+	<content contentuid="h5f81e20aga647g4c0fgb804gc90fc24aad5d" version="1">Your hands become extensions of elemental fire. Your unarmed attacks instead deal fire damage.</content>
 	<content contentuid="hea9de40ag0202g4274gbeb3ge5e12668b293" version="1">Elemental Strikes (Lightning)</content>
-	<content contentuid="h0e8b0084g7ddbg4acdgb926g14dd9604d398" version="1">Your hands become extensions of elemental air. Your unarmed attacks instead deal [1].</content>
+	<content contentuid="h0e8b0084g7ddbg4acdgb926g14dd9604d398" version="1">Your hands become extensions of elemental air. Your unarmed attacks instead deal lightning damage.</content>
 	<content contentuid="hdf929828gb2deg4d6egab5fg106ef774cb74" version="1">Elemental Attunement</content>
 	<content contentuid="hc54de76dg87d0g486fgaacag1c123d5a9868" version="1">You attune yourself to with the elemental forces of the multiverse. You gain the ability to strike with the power of the elements and move enemies around the battlefield on a whim.</content>	
 	
