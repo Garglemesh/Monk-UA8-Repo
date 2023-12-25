@@ -1,0 +1,5 @@
+{
+    "RequiredVersion": 11,
+    "ModTable": "Monk_UA8",
+    "FeatureFlags": ["Lua"]
+}
