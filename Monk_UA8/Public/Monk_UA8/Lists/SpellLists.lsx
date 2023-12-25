@@ -25,47 +25,47 @@
                     <attribute id="UUID" type="guid" value="8c6755f7-eafd-4fd3-bf1c-9b1f7093ec2c"/>
                 </node>
                 <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="Four Elements Monk Level 3"/>
+                    <attribute id="Comment" type="LSString" value="WarriorElements Monk Level 3"/>
                     <attribute id="Spells" type="LSString" value="Shout_ElementalAttunement"/>
                     <attribute id="UUID" type="guid" value="d8b58595-a785-4668-909b-51bd88a9290b"/>
                 </node>
                 <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="Four Elements Monk Level 6"/>
+                    <attribute id="Comment" type="LSString" value="WarriorElements Monk Level 6"/>
                     <attribute id="Spells" type="LSString" value="Projectile_Environmental_Burst"/>
                     <attribute id="UUID" type="guid" value="d928495f-af54-4a9d-8c5b-d2c630ba4596"/>
                 </node>
                 <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="Four Elements Monk Level 11"/>
+                    <attribute id="Comment" type="LSString" value="WarriorElements Monk Level 11"/>
                     <attribute id="Spells" type="LSString" value=""/>
                     <attribute id="UUID" type="guid" value="63940ca9-baa8-483a-9270-53323b9b52c3"/>
                 </node>
                 <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="Open Hand Monk level 3"/>
+                    <attribute id="Comment" type="LSString" value="WarriorHand Monk level 3"/>
                     <attribute id="Spells" type="LSString" value="Target_OpenHandTechnique_Knock;Target_OpenHandTechnique_NoReactions;Target_OpenHandTechnique_Push"/>
                     <attribute id="UUID" type="guid" value="8032000b-dabb-40ed-8b1a-5be950950fd1"/>
                 </node>
                 <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="Open Hand Monk level 6"/>
+                    <attribute id="Comment" type="LSString" value="WarriorHand Monk level 6"/>
                     <attribute id="Spells" type="LSString" value="Shout_WholenessOfBody"/>
                     <attribute id="UUID" type="guid" value="6ec6de52-b6a7-479f-8e3b-53abb2bf746c"/>
                 </node>
                 <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="Open Hand Monk level 11"/>
+                    <attribute id="Comment" type="LSString" value="WarriorHand Monk level 11"/>
                     <attribute id="Spells" type="LSString" value="Target_KiResonation_Punch;Target_KiResonation_Punch_BonusAction;Target_KiResonation_Blast"/>
                     <attribute id="UUID" type="guid" value="c3158599-6b65-4fa5-95a0-c541db6b8d62"/>
                 </node>
                 <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="Shadow Monk level 3"/>
+                    <attribute id="Comment" type="LSString" value="WarriorShadow Monk level 3"/>
                     <attribute id="Spells" type="LSString" value="Shout_Hide_ShadowArts;Shout_PassWithoutTrace_Monk;Target_Darkness_Monk;Target_Darkvision_Monk;Target_MinorIllusion;Target_Silence_Monk"/>
                     <attribute id="UUID" type="guid" value="8ebe2fed-19ea-4331-9994-e4ed7349926c"/>
                 </node>
                 <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="Shadow Monk level 6"/>
+                    <attribute id="Comment" type="LSString" value="WarriorShadow Monk level 6"/>
                     <attribute id="Spells" type="LSString" value="Target_ShadowStep"/>
                     <attribute id="UUID" type="guid" value="5e053339-04ba-4e89-a7ce-0d27f2267daf"/>
                 </node>
                 <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="Shadow Monk level 11"/>
+                    <attribute id="Comment" type="LSString" value="WarriorShadow Monk level 11"/>
                     <attribute id="Spells" type="LSString" value="Target_ShadowStrike_Instant;Target_ShadowStrike_Instant_Unarmed"/>
                     <attribute id="UUID" type="guid" value="1ade9c38-fa65-4604-bf33-587d27cac034"/>
                 </node>
