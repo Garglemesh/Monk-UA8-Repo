@@ -46,6 +46,9 @@
 	<content contentuid="h08c1641eg4c97g4c51ga296g043e43285f63" version="1">Vacuum Strikes</content>
 	<content contentuid="h82a30865gaec1g42f6ga587g3cd21a57078d" version="1">When you use your unarmed strikes, enemies are pulled towards you</content>
 	<content contentuid="h622e6d0dg7218g4ce3g871ag8aec2ac7bc95" version="2">Reposition your dark shroud. It Heavily Obscures and &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blinds&lt;/LSTag&gt; creatures within. Creatures cannot make ranged attacks into or out of it.</content>
+	<content contentuid="h5f2a9c49g0726g4d66g8746g1cea27a1360b" version="1">Shadowvision</content>
+	<content contentuid="he7e71cc6g2f91g494eg930bga3e886701ec5" version="1">You gain &lt;LSTag Type="Passive" Tooltip="Darkvision"&gt;Darkvision&lt;/LSTag&gt;. If you already have Darkvision, gain &lt;LSTag Type="Passive" Tooltip="SuperiorDarkvision"&gt;Superior Darkvision&lt;/LSTag&gt;</content>
+
 
 
 </contentList>

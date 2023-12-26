@@ -178,7 +178,7 @@
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="3"/>
                     <attribute id="Name" type="LSString" value="WarriorHand"/>
-                    <attribute id="PassivesAdded" type="LSString" value="OpenHandUnlock;"/>
+                    <attribute id="PassivesAdded" type="LSString" value="WarriorHandUnlock;"/>
                     <attribute id="PassivesRemoved" type="LSString" value="FlurryOfBlowsUnlock"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(8032000b-dabb-40ed-8b1a-5be950950fd1)"/>
@@ -207,7 +207,7 @@
                     <attribute id="Level" type="uint8" value="3"/>
                     <attribute id="Name" type="LSString" value="WarriorShadow"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="PassivesAdded" type="LSString" value="IF(HasPassive('Darkvision')):SuperiorDarkvision;IF(not HasPassive('Darkvision')):Darkvision;"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Shadowvision"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(8ebe2fed-19ea-4331-9994-e4ed7349926c)"/>
                     <attribute id="TableUUID" type="guid" value="13cf5fed-8156-441d-8709-b808ed84e5db"/>
                     <attribute id="UUID" type="guid" value="ec10bc6e-5dd8-428e-a3a7-5308d56fa065"/>

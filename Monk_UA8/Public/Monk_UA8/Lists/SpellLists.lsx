@@ -56,7 +56,7 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="WarriorShadow Monk level 3"/>
-                    <attribute id="Spells" type="LSString" value="Shout_Hide_ShadowArts;Shout_PassWithoutTrace_Monk;Target_Darkness_Monk;Target_Darkvision_Monk;Target_MinorIllusion;Target_Silence_Monk"/>
+                    <attribute id="Spells" type="LSString" value="Target_Darkness_Monk;Target_MinorIllusion;"/>
                     <attribute id="UUID" type="guid" value="8ebe2fed-19ea-4331-9994-e4ed7349926c"/>
                 </node>
                 <node id="SpellList">
