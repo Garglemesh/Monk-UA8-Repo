@@ -88,7 +88,7 @@ data "RemoveConditions" "HasAnyStatus({'SG_Incapacitated','SG_Stunned','SG_Polym
 data "RemoveEvents" "OnStatusApplied"
 data "TickType" "EndTurn"
 data "Boosts" "UnlockSpellVariant(MeleeUnarmedAttackCheck(),ModifyTargetRadius(Override,3.5));"
-data "Passives" "ElementalStrikesAcid;ElementalStrikesCold;ElementalStrikesFire;ElementalStrikesLightning;"
+data "Passives" "ElementalStrikesAcid;ElementalStrikesCold;ElementalStrikesFire;ElementalStrikesLightning;ElementalStrikesPush;ElementalStrikesPull;"
 
 new entry "DARKNESS_CASTER"
 type "StatusData"
