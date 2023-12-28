@@ -50,6 +50,7 @@
 	<content contentuid="he7e71cc6g2f91g494eg930bga3e886701ec5" version="1">You gain &lt;LSTag Type="Passive" Tooltip="Darkvision"&gt;Darkvision&lt;/LSTag&gt;. If you already have Darkvision, gain &lt;LSTag Type="Passive" Tooltip="SuperiorDarkvision"&gt;Superior Darkvision&lt;/LSTag&gt;</content>
 	<content contentuid="h234fb78bgaeafg4cbeg9c70g31d32127c90f" version="1">Possibly &lt;LSTag Type="Status" Tooltip="STUNNED"&gt;Stuns&lt;/LSTag&gt; the target. On save, instead deal [1].</content>
 	<content contentuid="hba25318bgc1aeg457cgaf2agbc4ddb2381bf" version="1">Stunning Strike</content>
+	<content contentuid="hdd85cc08ga7e4g46f1gaf2ag59c6f27cc135" version="1">Affected entity knows how to break its fall. It is &lt;LSTag Tooltip="Immune"&gt;Immune&lt;/LSTag&gt; to Falling damage.</content>
 
 </contentList>
 
