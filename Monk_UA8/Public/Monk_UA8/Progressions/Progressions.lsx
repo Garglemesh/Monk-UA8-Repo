@@ -163,7 +163,7 @@
                     <attribute id="Level" type="uint8" value="6"/>
                     <attribute id="Name" type="LSString" value="WarriorElements"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(d928495f-af54-4a9d-8c5b-d2c630ba4596);"/>
                     <attribute id="TableUUID" type="guid" value="35523d45-0e40-4224-8a14-2546e7f2243d"/>
                     <attribute id="UUID" type="guid" value="ccee5d2c-bda2-4128-9b32-1a68a96c44ea"/>
                 </node>
@@ -186,15 +186,24 @@
                     <attribute id="UUID" type="guid" value="9848fbd5-3e7f-41bb-af1d-f0420566c190"/>
                 </node>
                 <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(HandMonkHealPoint,3,0)"/>
                     <attribute id="Level" type="uint8" value="6"/>
                     <attribute id="Name" type="LSString" value="WarriorHand"/>
-                    <attribute id="PassivesAdded" type="LSString" value="Manifestation_of_Body;Manifestation_of_Mind;Manifestation_of_Soul"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(6ec6de52-b6a7-479f-8e3b-53abb2bf746c)"/>
                     <attribute id="TableUUID" type="guid" value="41118f97-053c-4216-a825-a9a5fa585881"/>
                     <attribute id="UUID" type="guid" value="7fb92e80-77aa-458b-b42b-c06d9633a1c6"/>
                 </node>
                 <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(HandMonkHealPoint,1,0)"/>
+                    <attribute id="Level" type="uint8" value="8"/>
+                    <attribute id="Name" type="LSString" value="WarriorHand"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="41118f97-053c-4216-a825-a9a5fa585881"/>
+                    <attribute id="UUID" type="guid" value="cb30cc8f-3b3d-4759-a7d4-17b6b2c32911"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(HandMonkHealPoint,1,0)"/>
                     <attribute id="Level" type="uint8" value="11"/>
                     <attribute id="Name" type="LSString" value="WarriorHand"/>
                     <attribute id="PassivesAdded" type="LSString" value="Tranquility"/>

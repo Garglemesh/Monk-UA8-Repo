@@ -11,6 +11,15 @@
                     <attribute id="ReplenishType" type="FixedString" value="Turn"/>
                     <attribute id="UUID" type="guid" value="e38f148f-e0a0-47ef-b0ca-f8edc483ef3e"/>
                 </node>
+                <node id="ActionResourceDefinition">
+                    <attribute id="Description" type="TranslatedString" handle="h1839885agdd92g42a6gac45gf96f9ea0eda0" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h8cc0935fg68b5g47f8ga3b5gca464609021c" version="2"/>
+                    <attribute id="MaxLevel" type="uint32" value="0"/>
+                    <attribute id="Name" type="FixedString" value="HandMonkHealPoint"/>
+                    <attribute id="ReplenishType" type="FixedString" value="Rest"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
+                    <attribute id="UUID" type="guid" value="cecfa3d0-d5aa-4f80-b6e1-3147a2ebe518"/>
+                </node>
             </children>
         </node>
     </region>
