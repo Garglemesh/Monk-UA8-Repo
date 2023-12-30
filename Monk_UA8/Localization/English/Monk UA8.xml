@@ -51,6 +51,16 @@
 	<content contentuid="h234fb78bgaeafg4cbeg9c70g31d32127c90f" version="1">Possibly &lt;LSTag Type="Status" Tooltip="STUNNED"&gt;Stuns&lt;/LSTag&gt; the target. On save, instead deal [1].</content>
 	<content contentuid="hba25318bgc1aeg457cgaf2agbc4ddb2381bf" version="1">Stunning Strike</content>
 	<content contentuid="hdd85cc08ga7e4g46f1gaf2ag59c6f27cc135" version="1">Affected entity knows how to break its fall. It is &lt;LSTag Tooltip="Immune"&gt;Immune&lt;/LSTag&gt; to Falling damage.</content>
+	<content contentuid="hf2a7cb56g290fg4d51g8aa5g1a275652d486" version="1">As a Bonus Action, you can heal yourself.  You regain all expended uses when you finish a Long Rest.</content>
+	<content contentuid="h2e8c2becg409cg4e62g8df6gf470572875c5" version="1">Hand Monk Heal Charge(s)</content>
+	<content contentuid="hc8020637g75bag4795g817ega4c25b1c0179" version="1">Point used to heal as a bonus action.</content>
+	<content contentuid="h28a7609fg5107g44c6gbb6fg5bca55226d9d" version="1">Heightened Discipline</content>
+	<content contentuid="hf3eca389g2b57g4df1g89aegc876014ad6d7" version="1">Your training has pushed your body and mind to new levels. Your &lt;LSTag Tooltip="Target_FlurryOfBlows"&gt;Flurry Of Blows&lt;/LSTag&gt;, &lt;LSTag Tooltip="Shout_Dash_Disengage_StepOfTheWind"&gt;Step Of The Wind&lt;/LSTag&gt;, and &lt;LSTag Tooltip="Shout_Disengage_Dodge_PatientDefense"&gt;Patient Defense&lt;/LSTag&gt; spells are upgraded.</content>
+	<content contentuid="haa1983b4g021cg4946g8f58gbed402e02d45" version="1">Punch three times in quick succession.</content>
+	<content contentuid="h5cd7acafg3c53g46eag8468g31f9cdc1d8d9" version="1">Punch three times in quick succession and possibly knock the target &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;.</content>
+	<content contentuid="hcb10522egdba0g4ab7g800bg62ac123e132a" version="1">Punch three times in quick succession and &lt;LSTag Type="Status" Tooltip="OPEN_HAND_NO_REACTIONS"&gt;Stagger&lt;/LSTag&gt; the target, making it unable to take reactions.</content>
+	<content contentuid="h1c540f58g4cd4g4021g8765g68642ee0e033" version="1">Punch three times in quick succession and possibly push the target [1] away.</content>
+
 
 </contentList>
 

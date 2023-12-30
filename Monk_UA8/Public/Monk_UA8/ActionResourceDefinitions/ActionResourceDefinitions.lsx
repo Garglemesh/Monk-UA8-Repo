@@ -12,8 +12,8 @@
                     <attribute id="UUID" type="guid" value="e38f148f-e0a0-47ef-b0ca-f8edc483ef3e"/>
                 </node>
                 <node id="ActionResourceDefinition">
-                    <attribute id="Description" type="TranslatedString" handle="h1839885agdd92g42a6gac45gf96f9ea0eda0" version="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h8cc0935fg68b5g47f8ga3b5gca464609021c" version="2"/>
+                    <attribute id="Description" type="TranslatedString" handle="hc8020637g75bag4795g817ega4c25b1c0179" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h2e8c2becg409cg4e62g8df6gf470572875c5" version="1"/>
                     <attribute id="MaxLevel" type="uint32" value="0"/>
                     <attribute id="Name" type="FixedString" value="HandMonkHealPoint"/>
                     <attribute id="ReplenishType" type="FixedString" value="Rest"/>

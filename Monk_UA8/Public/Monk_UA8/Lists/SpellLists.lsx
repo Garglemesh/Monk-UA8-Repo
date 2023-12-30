@@ -21,7 +21,7 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Monk Level 10"/>
-                    <attribute id="Spells" type="LSString" value=""/>
+                    <attribute id="Spells" type="LSString" value="Shout_Dash_Disengage_StepOfTheWind_Heightened;Shout_Disengage_Dodge_PatientDefense_Heightened;"/>
                     <attribute id="UUID" type="guid" value="8c6755f7-eafd-4fd3-bf1c-9b1f7093ec2c"/>
                 </node>
                 <node id="SpellList">
@@ -35,23 +35,33 @@
                     <attribute id="UUID" type="guid" value="d928495f-af54-4a9d-8c5b-d2c630ba4596"/>
                 </node>
                 <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="WarriorElements Monk Level 10"/>
+                    <attribute id="Spells" type="LSString" value="Target_FlurryOfBlows_Acid_Triple;Target_FlurryOfBlows_Cold_Triple;Target_FlurryOfBlows_Fire_Triple;Target_FlurryOfBlows_Lightning_Triple;Target_FlurryOfBlows_Triple;"/>
+                    <attribute id="UUID" type="guid" value="c6dbc888-b4e4-4de0-9360-796e6835f24f"/>
+                </node>
+                <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="WarriorElements Monk Level 11"/>
                     <attribute id="Spells" type="LSString" value=""/>
                     <attribute id="UUID" type="guid" value="63940ca9-baa8-483a-9270-53323b9b52c3"/>
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="WarriorHand Monk level 3"/>
-                    <attribute id="Spells" type="LSString" value="Target_OpenHandTechnique_Knock;Target_OpenHandTechnique_NoReactions;Target_OpenHandTechnique_Push"/>
+                    <attribute id="Spells" type="LSString" value="Target_OpenHandTechnique_Knock;Target_OpenHandTechnique_NoReactions;Target_OpenHandTechnique_Push;Shout_FlurryOfBlows"/>
                     <attribute id="UUID" type="guid" value="8032000b-dabb-40ed-8b1a-5be950950fd1"/>
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="WarriorHand Monk level 6"/>
-                    <attribute id="Spells" type="LSString" value="Shout_WholenessOfBody"/>
+                    <attribute id="Spells" type="LSString" value="Shout_WholenessOfBody_2024"/>
                     <attribute id="UUID" type="guid" value="6ec6de52-b6a7-479f-8e3b-53abb2bf746c"/>
                 </node>
                 <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="WarriorHand Monk level 10"/>
+                    <attribute id="Spells" type="LSString" value="Target_OpenHandTechnique_Knock_Triple;Target_OpenHandTechnique_NoReactions_Triple;Target_OpenHandTechnique_Push_Triple;"/>
+                    <attribute id="UUID" type="guid" value="3471f7f2-0fd2-4ecc-a234-f90e4e13d661"/>
+                </node>
+                <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="WarriorHand Monk level 11"/>
-                    <attribute id="Spells" type="LSString" value="Target_KiResonation_Punch;Target_KiResonation_Punch_BonusAction;Target_KiResonation_Blast"/>
+                    <attribute id="Spells" type="LSString" value=""/>
                     <attribute id="UUID" type="guid" value="c3158599-6b65-4fa5-95a0-c541db6b8d62"/>
                 </node>
                 <node id="SpellList">
@@ -63,6 +73,11 @@
                     <attribute id="Comment" type="LSString" value="WarriorShadow Monk level 6"/>
                     <attribute id="Spells" type="LSString" value="Target_ShadowStep"/>
                     <attribute id="UUID" type="guid" value="5e053339-04ba-4e89-a7ce-0d27f2267daf"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="WarriorShadow Monk level 10"/>
+                    <attribute id="Spells" type="LSString" value="Target_FlurryOfBlows_Triple;Shout_FlurryOfBlows;"/>
+                    <attribute id="UUID" type="guid" value="f23ff8f8-16fe-42fa-9e6f-7a9bc056f740"/>
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="WarriorShadow Monk level 11"/>
