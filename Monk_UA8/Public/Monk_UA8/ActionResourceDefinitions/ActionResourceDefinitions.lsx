@@ -20,6 +20,13 @@
                     <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
                     <attribute id="UUID" type="guid" value="cecfa3d0-d5aa-4f80-b6e1-3147a2ebe518"/>
                 </node>
+                <node id="ActionResourceDefinition">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h98ec77d6gc0d8g4e47ga04cg08ee58e3748d" version="1"/>
+                    <attribute id="IsHidden" type="bool" value="true"/>
+                    <attribute id="Name" type="FixedString" value="SelfRestoration_Charge"/>
+                    <attribute id="ReplenishType" type="FixedString" value="Turn"/>
+                    <attribute id="UUID" type="guid" value="fd2cf4b7-5992-4dc2-9df7-12982e225879"/>
+                </node>
             </children>
         </node>
     </region>

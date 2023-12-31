@@ -60,6 +60,14 @@
 	<content contentuid="h5cd7acafg3c53g46eag8468g31f9cdc1d8d9" version="1">Punch three times in quick succession and possibly knock the target &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;.</content>
 	<content contentuid="hcb10522egdba0g4ab7g800bg62ac123e132a" version="1">Punch three times in quick succession and &lt;LSTag Type="Status" Tooltip="OPEN_HAND_NO_REACTIONS"&gt;Stagger&lt;/LSTag&gt; the target, making it unable to take reactions.</content>
 	<content contentuid="h1c540f58g4cd4g4021g8765g68642ee0e033" version="1">Punch three times in quick succession and possibly push the target [1] away.</content>
+	<content contentuid="h873881c9g4336g437eg9a13g3d66d044c32f" version="1">Self-Restoration</content>
+	<content contentuid="he5f933ffg7231g4074g8013g58ab9fe17830" version="1">You use your strength of will to overcome &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charmed&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightened&lt;/LSTag&gt;, or &lt;LSTag Type="Status" Tooltip="POISONED"&gt;Poisoned&lt;/LSTag&gt; statuses</content>	
+	<content contentuid="he2f605fage207g4c50gb859gfa82f99786be" version="1">Heightened Defense</content>
+	<content contentuid="h7f77cd41gb373g49abg8a12g6ecaefa43ad1" version="1">Heightened Step</content>
+	<content contentuid="h98ec77d6gc0d8g4e47ga04cg08ee58e3748d" version="1">Self-Restoration Charge</content>
+	
+
+
 
 
 </contentList>

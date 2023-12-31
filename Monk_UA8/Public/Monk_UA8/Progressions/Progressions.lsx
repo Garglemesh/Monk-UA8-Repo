@@ -128,7 +128,7 @@
                     <attribute id="Boosts" type="LSString" value="ActionResource(KiPoint,1,0)"/>
                     <attribute id="Level" type="uint8" value="10"/>
                     <attribute id="Name" type="LSString" value="Monk"/>
-                    <attribute id="PassivesAdded" type="LSString" value="UnarmoredMovement_3;HeightenedDiscipline;"/>
+                    <attribute id="PassivesAdded" type="LSString" value="UnarmoredMovement_3;HeightenedDiscipline;SelfRestoration_Charmed;SelfRestoration_Frightened;SelfRestoration_Poisoned;"/>
                     <attribute id="PassivesRemoved" type="LSString" value="UnarmoredMovement_2;FlurryOfBlowsUnlock;"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(8c6755f7-eafd-4fd3-bf1c-9b1f7093ec2);"/>
