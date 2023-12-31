@@ -179,8 +179,8 @@
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="11"/>
                     <attribute id="Name" type="LSString" value="WarriorElements"/>
+                    <attribute id="PassivesAdded" type="LSString" value="StrideOfTheElements;"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="35523d45-0e40-4224-8a14-2546e7f2243d"/>
                     <attribute id="UUID" type="guid" value="96958c72-7a30-482e-b619-1b1521acca12"/>
                 </node>
@@ -222,9 +222,8 @@
                     <attribute id="Boosts" type="LSString" value="ActionResource(HandMonkHealPoint,1,0)"/>
                     <attribute id="Level" type="uint8" value="11"/>
                     <attribute id="Name" type="LSString" value="WarriorHand"/>
-                    <attribute id="PassivesAdded" type="LSString" value="Tranquility"/>
+                    <attribute id="PassivesAdded" type="LSString" value="FleetStep;"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="AddSpells(c3158599-6b65-4fa5-95a0-c541db6b8d62)"/>
                     <attribute id="TableUUID" type="guid" value="41118f97-053c-4216-a825-a9a5fa585881"/>
                     <attribute id="UUID" type="guid" value="451e03fb-89bc-4ae0-b3f4-ca7d78320678"/>
                 </node>

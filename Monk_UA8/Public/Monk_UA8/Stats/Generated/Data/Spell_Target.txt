@@ -478,7 +478,7 @@ data "TargetConditions" "not Self() and not Dead() and not (not Player(context.S
 data "Icon" "Action_Monk_StunningStrike_Weapon"
 data "DisplayName" "h5decdf3dgf82cg42b6gb6dega2294e952dd0;3"
 data "Description" "h234fb78bgaeafg4cbeg9c70g31d32127c90f;1"
-data "DescriptionParams "DealDamage(LevelMapValue(MartialArts)+WisdomModifier,Force)"
+data "DescriptionParams" "DealDamage(LevelMapValue(MartialArts)+WisdomModifier,Force);"
 data "TooltipAttackSave" "MeleeWeaponAttack;Constitution"
 data "TooltipStatusApply" "ApplyStatus(STUNNED,100,1)"
 data "PrepareSound" "Vocal_Component_Monk_Control"
@@ -643,3 +643,16 @@ data "SpellRoll" "Attack(AttackType.MeleeUnarmedAttack );Cast2[Attack(AttackType
 data "SpellSuccess" "DealDamage(UnarmedDamage , Bludgeoning);Cast2[DealDamage(UnarmedDamage , Bludgeoning)];Cast3[DealDamage(UnarmedDamage , Bludgeoning);IF(not SavingThrow(Ability.Strength, ManeuverSaveDC())):Force(5)]"
 data "Description" "h1c540f58g4cd4g4021g8765g68642ee0e033;1"
 data "TooltipDamageList" "DealDamage(MartialArtsUnarmedDamage, Bludgeoning);DealDamage(MartialArtsUnarmedDamage, Bludgeoning);DealDamage(MartialArtsUnarmedDamage, Bludgeoning)"
+
+new entry "Target_Improved_ShadowStep"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_ShadowStep"
+data "Level" ""
+data "SpellSchool" ""
+data "SpellProperties" "GROUND:TeleportSource();GROUND:ApplyStatus(SELF,SHADOW_STEP,100,1);GROUND:ApplyStatus(SELF,IMPROVED_SHADOW_STEP,100,1)"
+data "RequirementConditions" ""
+data "RequirementEvents" ""
+data "TargetConditions" "CanStand('')
+data "UseCosts" "BonusActionPoint:1;KiPoint:1;"
+

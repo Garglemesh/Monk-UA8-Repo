@@ -162,3 +162,23 @@ data "Properties" "Highlighted"
 data "StatsFunctorContext" "OnTurn"
 data "Conditions" "HasStatus('SG_Poisoned', context.Source) and HasActionResource('SelfRestoration_Charge', 1, 0, false)"
 data "StatsFunctors" "ApplyStatus(SELFRESTORATION_POISONED,100,1);UseActionResource(SELF,SelfRestoration_Charge,1,0);"
+
+new entry "StrideOfTheElements"
+type "PassiveData"
+data "DisplayName" "h28a7609fg5107g44c6gbb6fg5bca55226d9d;1"
+data "Description" "h14476305gd182g404cg9d3cga2adb9e91c06;1"
+data "Icon" "Action_Fly"
+data "Properties" "Highlighted"
+data "Boosts" ""
+
+HasUseCosts('ActionPoint', true)
+
+new entry "FleetStep"
+type "PassiveData"
+data "DisplayName" "ha45b5615gf3f8g4c70ga9d3g47217c068b3f;1"
+data "Description" "h74858845g8940g4e6egb71ege7554de06a80;1"
+data "Icon" "Action_Monk_StepOfTheWind"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnSpellCast"
+data "Conditions" "HasUseCosts('BonusActionPoint', true) and not SpellId('Shout_Dash_StepOfTheWind') and not SpellId('Shout_Dash_Disengage_StepOfTheWind')"
+data "StatsFunctors" "ApplyStatus(FLEET_STEP,100,1)"

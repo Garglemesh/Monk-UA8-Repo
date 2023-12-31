@@ -48,7 +48,7 @@
 	<content contentuid="h622e6d0dg7218g4ce3g871ag8aec2ac7bc95" version="2">Reposition your dark shroud. It Heavily Obscures and &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blinds&lt;/LSTag&gt; creatures within. Creatures cannot make ranged attacks into or out of it.</content>
 	<content contentuid="h5f2a9c49g0726g4d66g8746g1cea27a1360b" version="1">Shadowvision</content>
 	<content contentuid="he7e71cc6g2f91g494eg930bga3e886701ec5" version="1">You gain &lt;LSTag Type="Passive" Tooltip="Darkvision"&gt;Darkvision&lt;/LSTag&gt;. If you already have Darkvision, gain &lt;LSTag Type="Passive" Tooltip="SuperiorDarkvision"&gt;Superior Darkvision&lt;/LSTag&gt;</content>
-	<content contentuid="h234fb78bgaeafg4cbeg9c70g31d32127c90f" version="1">Possibly &lt;LSTag Type="Status" Tooltip="STUNNED"&gt;Stuns&lt;/LSTag&gt; the target. On save, instead deal [1].</content>
+	<content contentuid="h234fb78bgaeafg4cbeg9c70g31d32127c90f" version="1">Use your ki to possibly &lt;LSTag Type="Status" Tooltip="STUNNED"&gt;Stun&lt;/LSTag&gt; the target. On a save, instead deal [1] as your ki slams against the enemy's defenses.</content>
 	<content contentuid="hba25318bgc1aeg457cgaf2agbc4ddb2381bf" version="1">Stunning Strike</content>
 	<content contentuid="hdd85cc08ga7e4g46f1gaf2ag59c6f27cc135" version="1">Affected entity knows how to break its fall. It is &lt;LSTag Tooltip="Immune"&gt;Immune&lt;/LSTag&gt; to Falling damage.</content>
 	<content contentuid="hf2a7cb56g290fg4d51g8aa5g1a275652d486" version="1">As a Bonus Action, you can heal yourself.  You regain all expended uses when you finish a Long Rest.</content>
@@ -65,8 +65,14 @@
 	<content contentuid="he2f605fage207g4c50gb859gfa82f99786be" version="1">Heightened Defense</content>
 	<content contentuid="h7f77cd41gb373g49abg8a12g6ecaefa43ad1" version="1">Heightened Step</content>
 	<content contentuid="h98ec77d6gc0d8g4e47ga04cg08ee58e3748d" version="1">Self-Restoration Charge</content>
-	
-
+	<content contentuid="h27c6ff97g7fc5g4cebg9bdegf422f7e119c8" version="1">Stride of the Elements</content>
+	<content contentuid="h14476305gd182g404cg9d3cga2adb9e91c06" version="1">When you use &lt;LSTag Type="Spell" Tooltip="Shout_Dash_StepOfTheWind"&gt;Step of the Wind&lt;/LSTag&gt; or &lt;LSTag Type="Spell" Tooltip="Shout_Dash_Disengage_StepOfTheWind"&gt;Step of the Wind: Dash and Disengage&lt;/LSTag&gt;, you gain &lt;LSTag Type="Passive" Tooltip="FLY"&gt;Flying&lt;/LSTag&gt; for 20 turns</content>
+	<content contentuid="h359c26e8g838cg42ffgb555g7954357fd1c8" version="1">Improved Shadow Step</content>
+	<content contentuid="h3b540addg5cf8g4f66g937dg5577896ff904" version="1">Your next &lt;LSTag Type="Spell" Tooltip="Target_UnarmedStrike_Monk"&gt;Unarmed Strike&lt;/LSTag&gt; is free.</content>
+	<content contentuid="ha479187cg9f9dg4c77g8686gb393f7fd01b5" version="1">You no longer require darkness to step across the battlefield. Afterwards, you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on your next melee &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; and your next &lt;LSTag Type="Spell" Tooltip="Target_UnarmedStrike_Monk"&gt;Unarmed Strike&lt;/LSTag&gt; is free.</content>
+	<content contentuid="ha45b5615gf3f8g4c70ga9d3g47217c068b3f" version="1">Fleet Step</content>
+	<content contentuid="h74858845g8940g4e6egb71ege7554de06a80" version="1">When you use your bonus action for anything other than &lt;LSTag Type="Spell" Tooltip="Shout_Dash_StepOfTheWind"&glt;Step of the Wind&lt;/LSTag&glt; or &lt;LSTag Type="Spell" Tooltip="Shout_Dash_Disengage_StepOfTheWind"&glt;Step of the Wind: Dash and Disengage&lt;/LSTag&glt;, you can cast either spell for free.</content>
+	<content contentuid="hbcd45899g4476g4d71g911cg5c02f84ca1e1" version="1">Your next &lt;LSTag Type="Spell" Tooltip="Shout_Dash_StepOfTheWind"&glt;Step of the Wind&lt;/LSTag&glt; or &lt;LSTag Type="Spell" Tooltip="Shout_Dash_Disengage_StepOfTheWind"&glt;Step of the Wind: Dash and Disengage&lt;/LSTag&glt; is free.</content>
 
 
 

@@ -40,11 +40,6 @@
                     <attribute id="UUID" type="guid" value="c6dbc888-b4e4-4de0-9360-796e6835f24f"/>
                 </node>
                 <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="WarriorElements Monk Level 11"/>
-                    <attribute id="Spells" type="LSString" value=""/>
-                    <attribute id="UUID" type="guid" value="63940ca9-baa8-483a-9270-53323b9b52c3"/>
-                </node>
-                <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="WarriorHand Monk level 3"/>
                     <attribute id="Spells" type="LSString" value="Target_OpenHandTechnique_Knock;Target_OpenHandTechnique_NoReactions;Target_OpenHandTechnique_Push;Shout_FlurryOfBlows"/>
                     <attribute id="UUID" type="guid" value="8032000b-dabb-40ed-8b1a-5be950950fd1"/>
@@ -81,7 +76,7 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="WarriorShadow Monk level 11"/>
-                    <attribute id="Spells" type="LSString" value="Target_ShadowStrike_Instant;Target_ShadowStrike_Instant_Unarmed"/>
+                    <attribute id="Spells" type="LSString" value="Target_Improved_ShadowStep;"/>
                     <attribute id="UUID" type="guid" value="1ade9c38-fa65-4604-bf33-587d27cac034"/>
                 </node>
             </children>
