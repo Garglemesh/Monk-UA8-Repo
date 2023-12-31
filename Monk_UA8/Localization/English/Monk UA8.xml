@@ -71,8 +71,8 @@
 	<content contentuid="h3b540addg5cf8g4f66g937dg5577896ff904" version="1">Your next &lt;LSTag Type="Spell" Tooltip="Target_UnarmedStrike_Monk"&gt;Unarmed Strike&lt;/LSTag&gt; is free.</content>
 	<content contentuid="ha479187cg9f9dg4c77g8686gb393f7fd01b5" version="1">You no longer require darkness to step across the battlefield. Afterwards, you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on your next melee &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; and your next &lt;LSTag Type="Spell" Tooltip="Target_UnarmedStrike_Monk"&gt;Unarmed Strike&lt;/LSTag&gt; is free.</content>
 	<content contentuid="ha45b5615gf3f8g4c70ga9d3g47217c068b3f" version="1">Fleet Step</content>
-	<content contentuid="h74858845g8940g4e6egb71ege7554de06a80" version="1">When you use your bonus action for anything other than &lt;LSTag Type="Spell" Tooltip="Shout_Dash_StepOfTheWind"&glt;Step of the Wind&lt;/LSTag&glt; or &lt;LSTag Type="Spell" Tooltip="Shout_Dash_Disengage_StepOfTheWind"&glt;Step of the Wind: Dash and Disengage&lt;/LSTag&glt;, you can cast either spell for free.</content>
-	<content contentuid="hbcd45899g4476g4d71g911cg5c02f84ca1e1" version="1">Your next &lt;LSTag Type="Spell" Tooltip="Shout_Dash_StepOfTheWind"&glt;Step of the Wind&lt;/LSTag&glt; or &lt;LSTag Type="Spell" Tooltip="Shout_Dash_Disengage_StepOfTheWind"&glt;Step of the Wind: Dash and Disengage&lt;/LSTag&glt; is free.</content>
+	<content contentuid="h74858845g8940g4e6egb71ege7554de06a80" version="1">When you use your bonus action for anything other than &lt;LSTag Type="Spell" Tooltip="Shout_Dash_StepOfTheWind"&gt;Step of the Wind&lt;/LSTag&gt; or &lt;LSTag Type="Spell" Tooltip="Shout_Dash_Disengage_StepOfTheWind"&gt;Step of the Wind: Dash and Disengage&lt;/LSTag&gt;, you can cast either spell for free.</content>
+	<content contentuid="hbcd45899g4476g4d71g911cg5c02f84ca1e1" version="1">Your next &lt;LSTag Type="Spell" Tooltip="Shout_Dash_StepOfTheWind"&gt;Step of the Wind&lt;/LSTag&gt; or &lt;LSTag Type="Spell" Tooltip="Shout_Dash_Disengage_StepOfTheWind"&gt;Step of the Wind: Dash and Disengage&lt;/LSTag&gt; is free.</content>
 
 
 

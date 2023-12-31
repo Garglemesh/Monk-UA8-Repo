@@ -38,6 +38,8 @@ data "Icon" "Spell_HarmonyOfFireAndWater"
 data "StackId" "UNCANNY_METABOLISM"
 data "TickType" "EndTurn"
 data "Boosts" "UnlockSpell(Shout_UncannyMetabolism)"
+data "RemoveConditions" ""
+data "RemoveEvents" "OnSpellCast"
 
 new entry "DEFLECT_ATTACKS"
 type "StatusData"
