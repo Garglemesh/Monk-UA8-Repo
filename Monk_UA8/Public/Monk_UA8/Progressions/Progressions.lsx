@@ -101,7 +101,7 @@
                     <attribute id="Boosts" type="LSString" value="ActionResource(KiPoint,1,0)"/>
                     <attribute id="Level" type="uint8" value="7"/>
                     <attribute id="Name" type="LSString" value="Monk"/>
-                    <attribute id="PassivesAdded" type="LSString" value="Evasion;StillnessOfMind"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Evasion;"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="TableUUID" type="guid" value="fe1319a2-86be-469c-aab5-e3b0bd714e0e"/>
                     <attribute id="UUID" type="guid" value="e715d543-451b-419f-9cf1-ed88339d9387"/>
@@ -128,10 +128,10 @@
                     <attribute id="Boosts" type="LSString" value="ActionResource(KiPoint,1,0)"/>
                     <attribute id="Level" type="uint8" value="10"/>
                     <attribute id="Name" type="LSString" value="Monk"/>
-                    <attribute id="PassivesAdded" type="LSString" value="UnarmoredMovement_3;HeightenedDiscipline;SelfRestoration_Charmed;SelfRestoration_Frightened;SelfRestoration_Poisoned;"/>
-                    <attribute id="PassivesRemoved" type="LSString" value="UnarmoredMovement_2;FlurryOfBlowsUnlock;"/>
+                    <attribute id="PassivesAdded" type="LSString" value="UnarmoredMovement_3;HeightenedDiscipline;SelfRestoration;"/>
+                    <attribute id="PassivesRemoved" type="LSString" value="UnarmoredMovement_2;"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value="AddSpells(8c6755f7-eafd-4fd3-bf1c-9b1f7093ec2);"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(8c6755f7-eafd-4fd3-bf1c-9b1f7093ec2c);"/>
                     <attribute id="TableUUID" type="guid" value="fe1319a2-86be-469c-aab5-e3b0bd714e0e"/>
                     <attribute id="UUID" type="guid" value="153f55a7-4c75-4748-a9f7-a756239a3fe6"/>
                 </node>
@@ -187,7 +187,8 @@
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="3"/>
                     <attribute id="Name" type="LSString" value="WarriorHand"/>
-                    <attribute id="PassivesRemoved" type="LSString" value="FlurryOfBlowsUnlock"/>
+                    <attribute id="PassivesRemoved" type="LSString" value="FlurryOfBlowsUnlock;"/>
+                    <attribute id="PassivesAdded" type="LSString" value="OpenHandUnlock;"/>                    
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(8032000b-dabb-40ed-8b1a-5be950950fd1)"/>
                     <attribute id="TableUUID" type="guid" value="41118f97-053c-4216-a825-a9a5fa585881"/>

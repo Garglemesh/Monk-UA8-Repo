@@ -10,7 +10,8 @@
 	<content contentuid="hea80c695g130eg4ef1gb5dfg6cb37683fd8b" version="1">You focus entirely on avoiding attacks. &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against you have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;, and you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Dexterity &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;</content>
 	<content contentuid="h71ad0334g6051g4b97g9b4dg4d338bc5465c" version="1">Flurry of Blows: First Strike</content>
 	<content contentuid="h06435e3agfca1g43efg88aag21dcd9eb7544" version="1">Flurry of Blows: Second Strike</content>
-	<content contentuid="h9de1e1f1g4e5dg4ca6g8e8cge1bb0744abb9" version="1">Flurry of Blows: Decoupled</content>
+	<content contentuid="hfb7b27a9gbef8g496bgbdd9g9731337574a2" version="1">Flurry of Blows: Third Strike</content>
+	<content contentuid="h9de1e1f1g4e5dg4ca6g8e8cge1bb0744abb9" version="1">Flurry of Blows: Individual</content>
 	<content contentuid="h5ac1aa51g62c0g489aga58cga256104622da" version="1">Step of the Wind</content>
 	<content contentuid="hbf10d1adg99c6g4778g865ag6d8b4beb53eb" version="1">You move with the speed of the wind. You can take the &lt;LSTag Type="Spell" Tooltip="Shout_Dash_StepOfTheWind"&gt;Dash&lt;/LSTag&gt; or &lt;LSTag Type="Spell" Tooltip="Shout_Dash_Disengage_StepOfTheWind"&gt;Dash and Disengage&lt;/LSTag&gt; &lt;LSTag Tooltip="Action"&gt;actions&lt;/LSTag&gt; as a &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;bonus action&lt;/LSTag&gt;.</content>
 	<content contentuid="h670f9e0fg3c53g434dgbac1gfef8d2efc5a0" version="1">Step of the Wind: Dash and Disengage</content>
@@ -20,9 +21,9 @@
 	<content contentuid="h079e2498gdd3fg4b73gb2e5g8c9f1dbe26f4" version="1">Patient Defense</content>
 	<content contentuid="hcb593eb4gdc83g4b3aga420g32aedf008e33" version="1">You focus entirely on avoiding attacks. You can take the &lt;LSTag Type="Spell" Tooltip="Shout_Disengage_PatientDefense"&gt;Disengage&lt;/LSTag&gt; or &lt;LSTag Type="Spell" Tooltip="Shout_Disengage_Dodge_PatientDefense"&gt;Disengage and Dodge&lt;/LSTag&gt; &lt;LSTag Tooltip="Action"&gt;actions&lt;/LSTag&gt; as a &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;bonus action&lt;/LSTag&gt;.</content>
 	<content contentuid="h13e66b0agdf39g4462g9ab3gcc7407b7ccca" version="1">Patient Defense: Disengage</content>
-	<content contentuid="hf43abb0egbab2g4753g941dg02a6ac70418c" version="1">&lt;LSTag Type="Spell" Tooltip="Shout_Disengage"&gt;Disengage&lt;/LSTag&gt;</content>
+	<content contentuid="hf43abb0egbab2g4753g941dg02a6ac70418c" version="1">You &lt;LSTag Type="Spell" Tooltip="Shout_Disengage"&gt;Disengage&lt;/LSTag&gt;.</content>
 	<content contentuid="h6c556409ge345g4da9g9474gafc8424b7adb" version="1">Patient Defense: Disengage and Dodge</content>
-	<content contentuid="h06570701gdf56g49a5gb580g9216d293bba7" version="1">&lt;LSTag Type="Spell" Tooltip="Shout_Disengage"&gt;Disengage&lt;/LSTag&gt;, &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against you have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;, and you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Dexterity &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;</content>
+	<content contentuid="h06570701gdf56g49a5gb580g9216d293bba7" version="1">You &lt;LSTag Type="Spell" Tooltip="Shout_Disengage"&gt;Disengage&lt;/LSTag&gt;. &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against you have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;, and you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Dexterity &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;</content>
 	<content contentuid="h97ae83afg48a4g45ccg9edag0eb552007fc0" version="1">Uncanny Metabolism</content>
 	<content contentuid="h9281e830g4434g409dg9cddg41e93c4e4516" version="1">Once per long rest, at the start of combat you can regain all expended &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;Ki Points&lt;/LSTag&gt; and heal for [1]</content>
 	<content contentuid="h199c545dgf0f6g41f0ga7d4ga418e899775e" version="1">Deflect Attacks</content>
@@ -56,10 +57,6 @@
 	<content contentuid="hc8020637g75bag4795g817ega4c25b1c0179" version="1">Point used to heal as a bonus action.</content>
 	<content contentuid="h28a7609fg5107g44c6gbb6fg5bca55226d9d" version="1">Heightened Discipline</content>
 	<content contentuid="hf3eca389g2b57g4df1g89aegc876014ad6d7" version="1">Your training has pushed your body and mind to new levels. Your &lt;LSTag Tooltip="Target_FlurryOfBlows"&gt;Flurry Of Blows&lt;/LSTag&gt;, &lt;LSTag Tooltip="Shout_Dash_Disengage_StepOfTheWind"&gt;Step Of The Wind&lt;/LSTag&gt;, and &lt;LSTag Tooltip="Shout_Disengage_Dodge_PatientDefense"&gt;Patient Defense&lt;/LSTag&gt; spells are upgraded.</content>
-	<content contentuid="haa1983b4g021cg4946g8f58gbed402e02d45" version="1">Punch three times in quick succession.</content>
-	<content contentuid="h5cd7acafg3c53g46eag8468g31f9cdc1d8d9" version="1">Punch three times in quick succession and possibly knock the target &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;.</content>
-	<content contentuid="hcb10522egdba0g4ab7g800bg62ac123e132a" version="1">Punch three times in quick succession and &lt;LSTag Type="Status" Tooltip="OPEN_HAND_NO_REACTIONS"&gt;Stagger&lt;/LSTag&gt; the target, making it unable to take reactions.</content>
-	<content contentuid="h1c540f58g4cd4g4021g8765g68642ee0e033" version="1">Punch three times in quick succession and possibly push the target [1] away.</content>
 	<content contentuid="h873881c9g4336g437eg9a13g3d66d044c32f" version="1">Self-Restoration</content>
 	<content contentuid="he5f933ffg7231g4074g8013g58ab9fe17830" version="1">You use your strength of will to overcome &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charmed&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightened&lt;/LSTag&gt;, or &lt;LSTag Type="Status" Tooltip="POISONED"&gt;Poisoned&lt;/LSTag&gt; statuses</content>	
 	<content contentuid="he2f605fage207g4c50gb859gfa82f99786be" version="1">Heightened Defense</content>
@@ -69,10 +66,31 @@
 	<content contentuid="h14476305gd182g404cg9d3cga2adb9e91c06" version="1">When you use &lt;LSTag Type="Spell" Tooltip="Shout_Dash_StepOfTheWind"&gt;Step of the Wind&lt;/LSTag&gt; or &lt;LSTag Type="Spell" Tooltip="Shout_Dash_Disengage_StepOfTheWind"&gt;Step of the Wind: Dash and Disengage&lt;/LSTag&gt;, you gain &lt;LSTag Type="Passive" Tooltip="FLY"&gt;Flying&lt;/LSTag&gt; for 20 turns</content>
 	<content contentuid="h359c26e8g838cg42ffgb555g7954357fd1c8" version="1">Improved Shadow Step</content>
 	<content contentuid="h3b540addg5cf8g4f66g937dg5577896ff904" version="1">Your next &lt;LSTag Type="Spell" Tooltip="Target_UnarmedStrike_Monk"&gt;Unarmed Strike&lt;/LSTag&gt; is free.</content>
-	<content contentuid="ha479187cg9f9dg4c77g8686gb393f7fd01b5" version="1">You no longer require darkness to step across the battlefield. Afterwards, you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on your next melee &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; and your next &lt;LSTag Type="Spell" Tooltip="Target_UnarmedStrike_Monk"&gt;Unarmed Strike&lt;/LSTag&gt; is free.</content>
+	<content contentuid="ha479187cg9f9dg4c77g8686gb393f7fd01b5" version="1">You no longer require darkness to step across the battlefield. Afterwards, you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on your next melee &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; and your next &lt;LSTag Type="Spell" Tooltip="Target_UnarmedStrike_Monk"&gt;Unarmed Strike&lt;/LSTag&gt; no longer requires a &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;bonus action&lt;/LSTag&gt;.</content>
 	<content contentuid="ha45b5615gf3f8g4c70ga9d3g47217c068b3f" version="1">Fleet Step</content>
-	<content contentuid="h74858845g8940g4e6egb71ege7554de06a80" version="1">When you use your bonus action for anything other than &lt;LSTag Type="Spell" Tooltip="Shout_Dash_StepOfTheWind"&gt;Step of the Wind&lt;/LSTag&gt; or &lt;LSTag Type="Spell" Tooltip="Shout_Dash_Disengage_StepOfTheWind"&gt;Step of the Wind: Dash and Disengage&lt;/LSTag&gt;, you can cast either spell for free.</content>
-	<content contentuid="hbcd45899g4476g4d71g911cg5c02f84ca1e1" version="1">Your next &lt;LSTag Type="Spell" Tooltip="Shout_Dash_StepOfTheWind"&gt;Step of the Wind&lt;/LSTag&gt; or &lt;LSTag Type="Spell" Tooltip="Shout_Dash_Disengage_StepOfTheWind"&gt;Step of the Wind: Dash and Disengage&lt;/LSTag&gt; is free.</content>
+	<content contentuid="h74858845g8940g4e6egb71ege7554de06a80" version="1">When you use your bonus action for any action other than &lt;LSTag Type="Spell" Tooltip="Shout_Dash_StepOfTheWind"&gt;Step of the Wind&lt;/LSTag&gt; or &lt;LSTag Type="Spell" Tooltip="Shout_Dash_Disengage_StepOfTheWind"&gt;Step of the Wind: Dash and Disengage&lt;/LSTag&gt;, these spells no longer require a &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;bonus action&lt;/LSTag&gt;.</content>
+	<content contentuid="hbcd45899g4476g4d71g911cg5c02f84ca1e1" version="1">Your next &lt;LSTag Type="Spell" Tooltip="Shout_Dash_StepOfTheWind"&gt;Step of the Wind&lt;/LSTag&gt; or &lt;LSTag Type="Spell" Tooltip="Shout_Dash_Disengage_StepOfTheWind"&gt;Step of the Wind: Dash and Disengage&lt;/LSTag&gt; no longer requires a &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;bonus action&lt;/LSTag&gt;.</content>
+	<content contentuid="h0bffb1a5g99c4g4eabg82d7g24f20201eabd" version="1">Heightened Step of the Wind: Dash and Disengage</content>
+	<content contentuid="h3bcae97cg69c9g40e3gac0eg4abe2e5cb394" version="1">Heightened Patient Defense: Disengage and Dodge</content>
+	<content contentuid="h89e61ff0gc6bcg4862g9117g976621e8589c" version="1">Double your &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; and &lt;LSTag Type="Spell" Tooltip="Shout_Disengage"&gt;disengage&lt;/LSTag&gt;. Jump no longer requires a &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;bonus action&lt;/LSTag&gt;. You can move a nearby ally with you as part of your movement.</content>
+	<content contentuid="h91fe9a4bg5505g43a8gb918g146258fdc10f" version="1">&lt;LSTag Type="Spell" Tooltip="Shout_Disengage"&gt;Disengage&lt;/LSTag&gt;, &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against you have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;, and you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Dexterity &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;. Gain [1].</content>
+	<content contentuid="h590eb9efg2aa6g474agbb43ga84623ceffc5" version="1">Gain [1].</content>
+	<content contentuid="h0e314811g0353g47d9gbe57g2fb082abb26f" version="1">Teleport yourself and an adjacent ally to a place you can see. The ally cannot be larger than large.</content>
+	<content contentuid="h3af12370g777eg4d53gbf59g84c27de746eb" version="1">Punch in quick succession.</content>
+	<content contentuid="h8b4bdfccge4c8g4768gbad5gd2984cfc6fd0" version="1">Punch in quick succession and possibly knock the target &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;.</content>
+	<content contentuid="hea46d196g4803g4fd3gadc6g9844054b0b11" version="1">Punch in quick succession and &lt;LSTag Type="Status" Tooltip="OPEN_HAND_NO_REACTIONS"&gt;Stagger&lt;/LSTag&gt; the target, making it unable to take reactions.</content>
+	<content contentuid="hc0d31899gc74dg459dga9f4gf93630b2e007" version="1">Punch in quick succession and possibly push the target [1] away.</content>
+	<content contentuid="hd69987eegb91ag4a0bg90d8g1fa131bec808" version="1">Corrosive Burst</content>
+	<content contentuid="h3bd92e4eg9e89g4e18ga181g109b2d0b9b9c" version="1">Create an acidic explosion, doing damamge and coating the ground in acid.</content>
+	<content contentuid="h58d6432ag6e0eg4b1bg8ab3gda0e3280fadc" version="1">Icey Burst</content>
+	<content contentuid="hd1724dd7g09f9g4f97g9407g762c2eb6a70c" version="1">Create an icey explosion, doing damamge and coating the ground in ice.</content>
+	<content contentuid="hd513a027gd7edg4879g90f1gfe757ea0be17" version="1">Firey Burst</content>
+	<content contentuid="h63718810g67b8g4933g9ff9g50da6bd4fc6d" version="1">Create a firey explosion, doing damamge and igniting the ground.</content>
+	<content contentuid="h6b0ba856g52f5g429bgb54bg6aa4614c288e" version="1">Electric Burst</content>
+	<content contentuid="h9b820ea7g970eg44b2g816dgb5645636bd12" version="1">Create an electric explosion, doing damamge and coating the ground in electrified water.</content>
+
+
+
 
 
 
