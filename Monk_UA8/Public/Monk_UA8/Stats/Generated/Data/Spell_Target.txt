@@ -429,6 +429,8 @@ data "SpellFlags" "IsSpell;IsHarmful;CanAreaDamageEvade"
 data "HitAnimationType" "MagicalDamage_External"
 data "PrepareEffect" "41193b01-e0c2-4945-ba40-7c3464b71bc0"
 data "CastEffect" "3d48b43d-1f17-4947-aa43-c142288d3f29"
+data "TargetEffect" "06b24e6e-890a-4305-afcc-5c309000af86"
+data "PositionEffect" "06b24e6e-890a-4305-afcc-5c309000af86"
 data "DamageType" "Acid"
 
 new entry "Target_Environmental_Burst_Cold"

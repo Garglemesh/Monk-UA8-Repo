@@ -33,7 +33,7 @@ data "SpellSuccess" "DealDamage(LevelMapValue(MartialArts)+LevelMapValue(Martial
 data "SpellFail" "DealDamage((LevelMapValue(MartialArts)+LevelMapValue(MartialArts)+LevelMapValue(MartialArts))/2,Acid,Magical)"
 data "TargetConditions" "not (HasPassive('SculptSpells', context.Source) and Ally())"
 data "ProjectileCount" "1"
-data "Trajectories" "2e9faa4c-79d7-4dc2-ba5f-5c7c4c203496"
+data "Trajectories" "aa171d97-b63a-477f-bd97-152dc33f2454"
 data "Icon" "Spell_Evocation_ChromaticOrb_Acid"
 data "DisplayName" "hd69987eegb91ag4a0bg90d8g1fa131bec808;1"
 data "Description" "h3bd92e4eg9e89g4e18ga181g109b2d0b9b9c;1"
