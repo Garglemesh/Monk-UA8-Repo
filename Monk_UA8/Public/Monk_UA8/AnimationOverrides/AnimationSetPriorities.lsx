@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="4" revision="0" build="200"/>
+    <region id="AnimationSetPriorities">
+        <node id="root">
+            <children>
+                <node id="AnimationSetPriority">
+                    <attribute id="Name" type="LSString" value="Class"/>
+                    <attribute id="Priority" type="int32" value="10"/>
+                    <attribute id="ReferenceId" type="guid" value="b76d9f23-74b8-4c9d-b506-2d62491a335c"/>
+                    <attribute id="UUID" type="guid" value="828b447c-aa6e-433c-a44b-a53e986eaaf7"/>
+                    <children>
+                        <node id="AddidionalObjects">
+                            <attribute id="Object" type="guid" value="c4598bdb-fc07-40dd-a62c-90cc138bd76f"/>
+                        </node>
+                        <node id="AddidionalObjects">
+                            <attribute id="Object" type="guid" value="6fb3831e-45d8-4b30-9714-6fe73988921b"/>
+                        </node>
+                        <node id="AddidionalObjects">
+                            <attribute id="Object" type="guid" value="db5a1621-693b-45fe-b4e1-ef5136c27541"/>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="328"/>
+    <region id="Origins">
+        <node id="root">
+            <children>
+                <node id="Origin">
+                    <attribute id="AppearanceLocked" type="bool" value="false"/>
+                    <attribute id="AvailableInCharacterCreation" type="uint8" value="2"/>
+                    <attribute id="BackgroundUUID" type="guid" value="5b1e726f-52bf-4e93-a798-9f93c067ee7f"/>
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="ClassUUID" type="guid" value="db5a1621-693b-45fe-b4e1-ef5136c27541"/>
+                    <attribute id="Description" type="TranslatedString" handle="h1271cbf3g741eg44e2g9157g698996b66bcf" version="2"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h9372b7f8g91f3g4f39g884eg0f75dfff07b4" version="2"/>
+                    <attribute id="GlobalTemplate" type="guid" value="0b149cab-4438-467a-953d-8697535b953d"/>
+                    <attribute id="Identity" type="uint8" value="3"/>
+                    <attribute id="IsHenchman" type="bool" value="true"/>
+                    <attribute id="LockClass" type="bool" value="false"/>
+                    <attribute id="LockRace" type="bool" value="true"/>
+                    <attribute id="Name" type="FixedString" value="Hireling_Monk_2024"/>
+                    <attribute id="Passives" type="LSString" value="DeathSavingThrows"/>
+                    <attribute id="RaceUUID" type="guid" value="bdf9b779-002c-4077-b377-8ea7c1faa795"/>
+                    <attribute id="UUID" type="guid" value="50b6bf48-ecea-4338-ac62-c5af784bc1a0"/>
+                    <attribute id="Unique" type="bool" value="false"/>
+                    <attribute id="VoiceTableUUID" type="guid" value="070195f3-384d-4014-8be2-1d79d742dd3f"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

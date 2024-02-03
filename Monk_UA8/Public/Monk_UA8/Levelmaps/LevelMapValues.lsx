@@ -18,8 +18,8 @@
                     <attribute id="Level8" type="LSString" value="1d8"/>
                     <attribute id="Level9" type="LSString" value="1d8"/>
                     <attribute id="Name" type="FixedString" value="MartialArts"/>
-                    <attribute id="PreferredClassUUID" type="guid" value="c4598bdb-fc07-40dd-a62c-90cc138bd76f"/>
-                    <attribute id="UUID" type="guid" value="b4136c95-a4f9-4fc1-96bc-00310232d27a"/>
+                    <attribute id="PreferredClassUUID" type="guid" value="db5a1621-693b-45fe-b4e1-ef5136c27541"/>
+                    <attribute id="UUID" type="guid" value="26648f6b-2d15-4d0a-81f2-9cde2578c2d1"/>
                 </node>
             </children>
         </node>
