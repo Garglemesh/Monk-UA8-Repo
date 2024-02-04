@@ -14,7 +14,7 @@
 					<attribute id="InterruptionMode" type="uint32" value="2" />
 					<attribute id="Looping" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="VFX_Fireball_4m_Impact_01" />
-					<attribute id="SourceFile" type="LSString" value="Public/Monk_UA8/Assets/Effects/Effects_Banks/VFX_Fireball_4m_Impact_01.lsfx" />
+					<attribute id="SourceFile" type="LSString" value="Public/Monk_2024/Assets/Effects/Effects_Banks/VFX_Fireball_4m_Impact_01.lsfx" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209013" />
 					<children>
 						<node id="Dependencies">

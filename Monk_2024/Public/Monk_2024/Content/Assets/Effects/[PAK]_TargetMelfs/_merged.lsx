@@ -18,7 +18,7 @@
 					<attribute id="Looping" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="VFX_MelfsAcidArrow_Impact_01" />
 					<attribute id="Radius" type="float" value="12.12436" />
-					<attribute id="SourceFile" type="LSString" value="Public/Monk_UA8/Assets/Effects/Effects_Banks/VFX_MelfsAcidArrow_Impact_01.lsfx" />
+					<attribute id="SourceFile" type="LSString" value="Public/Monk_2024/Assets/Effects/Effects_Banks/VFX_MelfsAcidArrow_Impact_01.lsfx" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115203108241808" />
 					<children>
 						<node id="Dependencies">
