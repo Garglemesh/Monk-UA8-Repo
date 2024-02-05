@@ -203,7 +203,7 @@ data "Description" ";1"
 data "Icon" "Action_Monk_StillnessOfMind"
 data "StackId" "SELFRESTORATION_POISONED"
 data "TickType" "EndTurn"
-data "OnRemoveFunctors" "IF(not HasStatus('SG_Charmed') and not HasStatus('SG_Frightened')):RemoveStatus(SG_Poisoned)"
+data "OnRemoveFunctors" "IF(not HasStatus('SG_Charmed') and not HasStatus('SG_Frightened')):RemoveStatus(SG_Poisoned);IF(not HasStatus('SG_Charmed') and not HasStatus('SG_Frightened')):RemoveStatus(SG_Disease);"
 data "StatusPropertyFlags" "DisableOverhead;DisablePortraitIndicator;DisableCombatlog"
 
 new entry "IMPROVED_SHADOW_STEP"

@@ -429,7 +429,7 @@ data "SpellFlags" "IsSpell;IsHarmful;CanAreaDamageEvade"
 data "HitAnimationType" "MagicalDamage_External"
 data "PrepareEffect" "41193b01-e0c2-4945-ba40-7c3464b71bc0"
 data "CastEffect" "3d48b43d-1f17-4947-aa43-c142288d3f29"
-data "TargetEffect" "06b24e6e-890a-4305-afcc-5c309000af86"
+
 data "PositionEffect" "06b24e6e-890a-4305-afcc-5c309000af86"
 data "DamageType" "Acid"
 
@@ -492,7 +492,7 @@ data "VerbalIntent" "Damage"
 data "SpellFlags" "IsSpell;IsHarmful;CanAreaDamageEvade"
 data "PrepareEffect" "fdbf8e88-c3a5-4151-a81d-429985de422c"
 data "CastEffect" "69aaec35-fb5f-489e-a4cc-47310f4377e9"
-data "TargetEffect" "ccecdc69-0106-4dff-acce-eb2820b295c7"
+data "TargetEffect" "02511b69-2ccd-4fa6-a251-b4ee3437bcf0"
 data "PositionEffect" "ccecdc69-0106-4dff-acce-eb2820b295c7"
 data "DamageType" "Fire"
 

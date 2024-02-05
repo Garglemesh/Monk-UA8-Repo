@@ -150,7 +150,7 @@ data "Icon" "PassiveFeature_StillnessOfMind"
 data "Properties" "Highlighted"
 data "StatsFunctorContext" "OnTurn"
 data "Conditions" "HasStatus('SG_Charmed', context.Source) or HasStatus('SG_Frightened', context.Source) or HasStatus('SG_Poisoned', context.Source)"
-data "StatsFunctors" "IF(HasStatus('SG_Charmed', context.Source)):ApplyStatus(SELFRESTORATION_CHARMED,100,1);IF(HasStatus('SG_Frightened', context.Source)):ApplyStatus(SELFRESTORATION_FRIGHTENED,100,1);IF(HasStatus('SG_Poisoned', context.Source)):ApplyStatus(SELFRESTORATION_POISONED,100,1);"
+data "StatsFunctors" "IF(HasStatus('SG_Charmed', context.Source)):ApplyStatus(SELFRESTORATION_CHARMED,100,1);IF(HasStatus('SG_Frightened', context.Source)):ApplyStatus(SELFRESTORATION_FRIGHTENED,100,1);IF(HasStatus('SG_Poisoned', context.Source) or HasStatus('SG_Disease', context.Source)):ApplyStatus(SELFRESTORATION_POISONED,100,1);"
 
 new entry "StrideOfTheElements"
 type "PassiveData"
