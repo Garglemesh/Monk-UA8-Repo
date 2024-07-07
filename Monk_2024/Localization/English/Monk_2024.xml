@@ -20,7 +20,7 @@
 	<content contentuid="hcb593eb4gdc83g4b3aga420g32aedf008e33" version="1">You focus entirely on avoiding attacks. You can take the &lt;LSTag Type="Spell" Tooltip="Shout_Disengage_PatientDefense"&gt;Disengage&lt;/LSTag&gt; or &lt;LSTag Type="Spell" Tooltip="Shout_Disengage_Dodge_PatientDefense"&gt;Disengage and Dodge&lt;/LSTag&gt; &lt;LSTag Tooltip="Action"&gt;actions&lt;/LSTag&gt; as a &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;bonus action&lt;/LSTag&gt;.</content>
 	<content contentuid="h13e66b0agdf39g4462g9ab3gcc7407b7ccca" version="1">Patient Defense</content>
 	<content contentuid="h6c556409ge345g4da9g9474gafc8424b7adb" version="1">Empowered Patient Defense</content>
-	<content contentuid="h06570701gdf56g49a5gb580g9216d293bba7" version="1">You &lt;LSTag Type="Spell" Tooltip="Shout_Disengage"&gt;Disengage&lt;/LSTag&gt;, &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against you have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;, and you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Dexterity &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;</content>
+	<content contentuid="h06570701gdf56g49a5gb580g9216d293bba7" version="1">Moving won't provoke &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attacks&lt;/LSTag&gt;, &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against you have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;, and you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Dexterity &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;</content>
 	<content contentuid="h97ae83afg48a4g45ccg9edag0eb552007fc0" version="1">Uncanny Metabolism</content>
 	<content contentuid="h9281e830g4434g409dg9cddg41e93c4e4516" version="1">Once per long rest, at the start of combat you can regain all expended &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;Ki Points&lt;/LSTag&gt; and heal for [1]</content>
 	<content contentuid="h199c545dgf0f6g41f0ga7d4ga418e899775e" version="1">Deflect Attacks</content>
@@ -52,10 +52,10 @@
 	<content contentuid="hf2a7cb56g290fg4d51g8aa5g1a275652d486" version="1">As a Bonus Action, you can heal yourself.  You regain all expended uses when you finish a Long Rest.</content>
 	<content contentuid="h2e8c2becg409cg4e62g8df6gf470572875c5" version="1">Hand Monk Heal Charge(s)</content>
 	<content contentuid="hc8020637g75bag4795g817ega4c25b1c0179" version="1">Point used to heal as a bonus action.</content>
-	<content contentuid="hf3eca389g2b57g4df1g89aegc876014ad6d7" version="1">&lt;LSTag Tooltip="Shout_Disengage_Dodge_PatientDefense"&gt;Empowered Patient Defense&lt;/LSTag&gt; grants bonus HP</content>
+	<content contentuid="hf3eca389g2b57g4df1g89aegc876014ad6d7" version="1">&lt;LSTag Tooltip="Shout_Disengage_Dodge_PatientDefense"&gt;Empowered Patient Defense&lt;/LSTag&gt; grants temporary HP</content>
 	<content contentuid="ha5cf903dg6c9cg41caga566g34d174e71c87" version="1">Heightened Flurry</content>
 	<content contentuid="h3bbde4c4g145bg4686gb36dg7888cb6d823a" version="1">&lt;LSTag Tooltip="Target_FlurryOfBlows"&gt;Flurry Of Blows&lt;/LSTag&gt; grants an additional unarmed strike</content>
-	<content contentuid="h9a0f0598g2a2fg4be6ga9f6g3e06f76c9ae3" version="1">&lt;LSTag Tooltip="Shout_Dash_Disengage_StepOfTheWind"&gt;Empowered Step of the Wind&lt;/LSTag&gt; grants &lt;LSTag Tooltip="Teleportation_StepOfTheWind"&gt;Heightened Step&lt;/LSTag&gt;</content>
+	<content contentuid="h9a0f0598g2a2fg4be6ga9f6g3e06f76c9ae3" version="1">&lt;LSTag Tooltip="Shout_Dash_Disengage_StepOfTheWind"&gt;Empowered Step of the Wind&lt;/LSTag&gt; allows you to teleport an ally with you</content>
 	<content contentuid="h873881c9g4336g437eg9a13g3d66d044c32f" version="1">Self-Restoration</content>
 	<content contentuid="he5f933ffg7231g4074g8013g58ab9fe17830" version="1">You use your strength of will to overcome &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charmed&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightened&lt;/LSTag&gt;, or &lt;LSTag Type="Status" Tooltip="POISONED"&gt;Poisoned&lt;/LSTag&gt; statuses</content>	
 	<content contentuid="he2f605fage207g4c50gb859gfa82f99786be" version="1">Heightened Defense</content>
@@ -80,14 +80,14 @@
 	<content contentuid="h8b4bdfccge4c8g4768gbad5gd2984cfc6fd0" version="1">Punch in quick succession and possibly knock the target &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;.</content>
 	<content contentuid="hea46d196g4803g4fd3gadc6g9844054b0b11" version="1">Punch in quick succession and &lt;LSTag Type="Status" Tooltip="OPEN_HAND_NO_REACTIONS"&gt;Stagger&lt;/LSTag&gt; the target, making it unable to take reactions.</content>
 	<content contentuid="hc0d31899gc74dg459dga9f4gf93630b2e007" version="1">Punch in quick succession and possibly push the target [1] away.</content>
-	<content contentuid="hd69987eegb91ag4a0bg90d8g1fa131bec808" version="1">Corrosive Burst</content>
-	<content contentuid="h3bd92e4eg9e89g4e18ga181g109b2d0b9b9c" version="1">Create an acidic explosion, doing damamge and coating the ground in acid.</content>
-	<content contentuid="h58d6432ag6e0eg4b1bg8ab3gda0e3280fadc" version="1">Icey Burst</content>
-	<content contentuid="hd1724dd7g09f9g4f97g9407g762c2eb6a70c" version="1">Create an icey explosion, doing damamge and coating the ground in ice.</content>
-	<content contentuid="hd513a027gd7edg4879g90f1gfe757ea0be17" version="1">Firey Burst</content>
-	<content contentuid="h63718810g67b8g4933g9ff9g50da6bd4fc6d" version="1">Create a firey explosion, doing damamge and igniting the ground.</content>
-	<content contentuid="h6b0ba856g52f5g429bgb54bg6aa4614c288e" version="1">Electric Burst</content>
-	<content contentuid="h9b820ea7g970eg44b2g816dgb5645636bd12" version="1">Create an electric explosion, doing damamge and coating the ground in electrified water.</content>
+	<content contentuid="hd69987eegb91ag4a0bg90d8g1fa131bec808" version="1">Caustic Blast</content>
+	<content contentuid="h3bd92e4eg9e89g4e18ga181g109b2d0b9b9c" version="1">Create an acidic burst, doing damage and coating the ground in acid.</content>
+	<content contentuid="h58d6432ag6e0eg4b1bg8ab3gda0e3280fadc" version="1">Icy Hail</content>
+	<content contentuid="hd1724dd7g09f9g4f97g9407g762c2eb6a70c" version="1">Create an icy burst, doing damage and coating the ground in ice.</content>
+	<content contentuid="hd513a027gd7edg4879g90f1gfe757ea0be17" version="1">Flaming Explosion</content>
+	<content contentuid="h63718810g67b8g4933g9ff9g50da6bd4fc6d" version="1">Create a firey burst, doing damage and igniting the ground.</content>
+	<content contentuid="h6b0ba856g52f5g429bgb54bg6aa4614c288e" version="1">Ball Lightning</content>
+	<content contentuid="h9b820ea7g970eg44b2g816dgb5645636bd12" version="1">Create an electric burst, doing damage and coating the ground in electrified water.</content>
 
 
 
