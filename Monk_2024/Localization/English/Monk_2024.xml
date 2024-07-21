@@ -36,7 +36,9 @@
 	<content contentuid="h85c85c92g5319g415fgb91dgedcf58a1ed12" version="1">Searing Strikes</content>
 	<content contentuid="h5f81e20aga647g4c0fgb804gc90fc24aad5d" version="1">Your fists become extensions of elemental fire. Your unarmed attacks instead deal fire damage.</content>
 	<content contentuid="hea9de40ag0202g4274gbeb3ge5e12668b293" version="1">Jolting Strikes</content>
-	<content contentuid="h0e8b0084g7ddbg4acdgb926g14dd9604d398" version="1">Your fists become extensions of elemental air. Your unarmed attacks instead deal lightning damage.</content>
+	<content contentuid="h0e8b0084g7ddbg4acdgb926g14dd9604d398" version="1">Your fists become extensions of elemental electricity. Your unarmed attacks instead deal lightning damage.</content>
+	<content contentuid="h4c8cbab8g0e34g4632g9acfg51a7b80b2cbc" version="1">Thunderous Strikes</content>
+	<content contentuid="h8e04a486gb560g4e20g9791g292ba9315004" version="1">Your fists become extensions of elemental air. Your unarmed attacks instead deal thunder damage.</content>
 	<content contentuid="hdf929828gb2deg4d6egab5fg106ef774cb74" version="1">Elemental Attunement</content>
 	<content contentuid="hc54de76dg87d0g486fgaacag1c123d5a9868" version="1">You attune yourself to the elemental forces of the multiverse. You gain the ability to strike with the power of the elements and move enemies to and fro on a whim.</content>	
 	<content contentuid="h09b640f2g72d8g4bd7ga427g0e9ac55bd65c" version="1">Concussive Strikes</content>
@@ -46,7 +48,7 @@
 	<content contentuid="h622e6d0dg7218g4ce3g871ag8aec2ac7bc95" version="2">Reposition your dark shroud. It Heavily Obscures and &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blinds&lt;/LSTag&gt; creatures within. Creatures cannot make ranged attacks into or out of it.</content>
 	<content contentuid="h5f2a9c49g0726g4d66g8746g1cea27a1360b" version="1">Shadowvision</content>
 	<content contentuid="he7e71cc6g2f91g494eg930bga3e886701ec5" version="1">You gain &lt;LSTag Type="Passive" Tooltip="Darkvision"&gt;Darkvision&lt;/LSTag&gt;. If you already have Darkvision, gain &lt;LSTag Type="Passive" Tooltip="SuperiorDarkvision"&gt;Superior Darkvision&lt;/LSTag&gt;</content>
-	<content contentuid="h234fb78bgaeafg4cbeg9c70g31d32127c90f" version="1">Use your ki to possibly &lt;LSTag Type="Status" Tooltip="STUNNED"&gt;Stun&lt;/LSTag&gt; the target. On a save, instead deal [1] as your ki slams against the enemy's defenses.</content>
+	<content contentuid="h234fb78bgaeafg4cbeg9c70g31d32127c90f" version="1">Use your ki to possibly &lt;LSTag Type="Status" Tooltip="STUNNED"&gt;Stun&lt;/LSTag&gt; the target. On a save, the target's &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt;is halved and the next attack it recieves has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt;.</content>
 	<content contentuid="hba25318bgc1aeg457cgaf2agbc4ddb2381bf" version="1">Stunning Strike</content>
 	<content contentuid="hdd85cc08ga7e4g46f1gaf2ag59c6f27cc135" version="1">Affected entity knows how to break its fall. It is &lt;LSTag Tooltip="Immune"&gt;Immune&lt;/LSTag&gt; to Falling damage.</content>
 	<content contentuid="hf2a7cb56g290fg4d51g8aa5g1a275652d486" version="1">As a Bonus Action, you can heal yourself.  You regain all expended uses when you finish a Long Rest.</content>
@@ -88,6 +90,10 @@
 	<content contentuid="h63718810g67b8g4933g9ff9g50da6bd4fc6d" version="1">Create a firey burst, doing damage and igniting the ground.</content>
 	<content contentuid="h6b0ba856g52f5g429bgb54bg6aa4614c288e" version="1">Ball Lightning</content>
 	<content contentuid="h9b820ea7g970eg44b2g816dgb5645636bd12" version="1">Create an electric burst, doing damage and coating the ground in electrified water.</content>
+	<content contentuid="haf32fc3bg7590g423fg92cegac8be7833681" version="1">Stunning Strike Slow</content>
+	<content contentuid="hba0882abga91eg45d4gb22bg94d6bfa6317c" version="1">Successfuly resisting Stunning Strike has left you exhausted</content>
+	<content contentuid="h3b148c79gb17fg4fe5gb16dg4818058c7a3a" version="1">Stunning Strike Advantage</content>
+	<content contentuid="h5dabd31bg0433g46ccg8b74g9ba389cacf53" version="1">Successfuly resisting Stunning Strike has left you vulnerable</content>
 
 
 

@@ -31,7 +31,7 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="WarriorElements Monk Level 6"/>
-                    <attribute id="Spells" type="LSString" value="Target_Environmental_Burst_Acid;Target_Environmental_Burst_Cold;Target_Environmental_Burst_Fire;Target_Environmental_Burst_Lightning;"/>
+                    <attribute id="Spells" type="LSString" value="Target_Environmental_Burst_Acid;Target_Environmental_Burst_Cold;Target_Environmental_Burst_Fire;Target_Environmental_Burst_Lightning;Target_Environmental_Burst_Thunder;"/>
                     <attribute id="UUID" type="guid" value="d928495f-af54-4a9d-8c5b-d2c630ba4596"/>
                 </node>
                 <node id="SpellList">
